@@ -1,53 +1,17 @@
 ---
-title: Portfolio format
+title: The Sonic Contender - exploring sound as an element of experience design
+emoji: 🔊
+metaDescription: Research project on the role of sound in experience design
 updated: 2022-03-22 14:28:45Z
 created: 2022-03-17 16:03:11Z
----
-
-# Portfolio checklist
-
-- [ ] Does my UX portfolio convey the range of skills that the job description outlines?
-    
-- [ ] Does this case study go beyond deliverables?
-    
-- [ ] Does this case study explain not just what I did but why I did it?
-    
-- [ ] Is there a good balance of text and images?
-    
-- [ ] Could I replace any of the text with images or visuals?
-    
-- [ ] Is the text readable and skim-able?
-    
-- [ ] Could I further break up text with smaller paragraphs, bulleted lists, and headlines?
-    
-- [ ] Do I make use of varying text sizes to help create hierarchy of information on each page?
-    
-- [ ] Are some details better suited to discuss in an interview versus be included in the case study or portfolio document?
-    
-- [ ] Does it feel overwhelming or too long?
-    
+summary: Research project on the role of sound in experience design
+tags:
+- research
+- sound design
+---   
 
 * * *
 
-\-\-\-
-
-title: The Sonic Contender - exploring sound as an element of experience design
-
-emoji: 🔊
-
-metaDescription: Research project on the role of sound in experience design
-
-date: -
-
-summary: Research project on the role of sound in experience design
-
-tags:
-
-\- research
-
-\- sound design
-
-\-\-\-
 
 ### Personal note
 
@@ -102,23 +66,3 @@ Personally, it made me realise that any environment or activity we are involved 
 ### Making it digestible
 
 \[google sheet img\] (we later shortlisted links and categorised them into the three areas covered in the presentation)
-
-~~\- Exploratory and open topic; very complex topic~~
-
-\- Scientific research papers provided more insights and depth to general research - it provides a clearer understanding why certain things are designed a certain way
-
-\- A mixture of physical and digital
-
-\- Document own thoughts/questions - they are very useful to create a structure for slide prep and a focus on what we are trying to achieve. In general this method is also good for writing
-
-~~\- Put relevant research under each section of the structure~~
-
-\- Collaborating with someone makes research more fun and interesting - it helps you to think outside of the box and notice things you haven’t before
-
-~~\- Cite and source every relevant research and summarise why they are relevant~~
-
-\- During review, prepare speaker notes for each piece of research that will be potentially used for the talk
-
-~~\- Personal hobbies and interest can greatly add to research if it is relevant~~
-
-\- Organising research early saves pain and headache when it gets reviewed later
