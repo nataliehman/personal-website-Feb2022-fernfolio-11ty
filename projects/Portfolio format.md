@@ -46,7 +46,7 @@ For this exploratory project, sound is a overwhelmingly complex topic. Before we
 - Focus on areas that allows us to create sufficient content for the presentation within the time constraints
 - Our personal hobbies and interest and how sound may have impacted our experiences
 
-\[mind map image\]
+![A sample inlined image](https://source.unsplash.com/random/600x400) *random unsplash image*
 
 After reviewing the mind map, we conducted our research and documented our findings in Google Docs. For each link I find, I would put them into the relevant category e.g. environment, game design, brands, music etc., and provide a short summary to highlight any important points that were relevant to the topic. This helps to provide a quick visual summary when I meet with my team for progress updates and also a good reference for our work later on.
 
