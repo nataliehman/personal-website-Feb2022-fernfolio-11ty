@@ -1,17 +1,14 @@
 ---
-title: The Sonic Contender - exploring sound as an element of experience design
+title: The Sonic Contender - exploring sound as an element of experience design
 emoji: 🔊
-metaDescription: Research project on the role of sound in experience design
+metaDescription: Research project on the role of sound in experience design
 updated: 2022-03-22 14:28:45Z
 created: 2022-03-17 16:03:11Z
 summary: Research project on the role of sound in experience design
 tags:
-- research
-- sound design
----   
-
-* * *
-
+  - research
+  - sound design
+---
 
 ### Personal note
 
