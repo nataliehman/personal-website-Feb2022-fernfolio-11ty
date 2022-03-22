@@ -126,6 +126,13 @@ img, video {
   margin-top: 0px;
   margin-bottom: 2.5rem; }
 
+figcaption {
+  text-align: center;
+    font-style: italic;
+    color: #636e72;
+    font-size: 0.9em;
+}
+
 /* Pre and Code */
 pre {
   background-color: var(--color-bg-secondary);
