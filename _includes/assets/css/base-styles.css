@@ -131,6 +131,7 @@ figcaption {
     font-style: italic;
     color: #636e72;
     font-size: 0.9em;
+    padding-bottom:2.5em;
 }
 
 /* Pre and Code */
