@@ -116,4 +116,12 @@ module.exports = function(eleventyConfig) {
       output: "_site"
     }
   };
+
+  // Eleventy plugin - eleventy-plugin-embed-everything for embedding videos
+  // https://github.com/gfscott/eleventy-plugin-embed-everything
+  const embedEverything = require("eleventy-plugin-embed-everything");
+
+    module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(embedEverything);
+  };
 };
