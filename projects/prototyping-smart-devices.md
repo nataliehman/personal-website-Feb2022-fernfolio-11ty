@@ -35,7 +35,7 @@ The following are the key areas we focused on:
 
 ### Team
 
-Natalie Man, UX Designer
+Natalie Man, UX Designer, Smartology
 Chakib Labidi, UX Consultant and UX Playground founder
 Stephanie Howard, Digital Designer, Nelson Bostock
 
@@ -47,6 +47,7 @@ Our research covered topics such as UI kits, interfaces, and prototyping. Since 
 - What are the challenges?
 
 ![Non-smart device UI research](/static/img/non-smart-ui-research.png) <figcaption>Research for prototyping with non-smart device interfaces.</figcaption>
+
 ![Smart device UI research](/static/img/smart-ui-research.png) <figcaption>Research for prototyping with smart device interfaces.</figcaption>
 
 I also researched what prototyping tools Adobe XD can integrate with. However, from my experience with the UX Playground project, we used ProtoPie as the tool for prototyping animation and interaction (this was before Adobe implemented the Auto-animate feature into XD).
@@ -65,20 +66,20 @@ Throughout this phase, I was experimenting and testing how LittleBits work with 
 
 ![Experimenting with LittleBits](/static/img/littlebits-light-dimming.png) <figcaption> Stephanie testing light dimming with LittleBits.</figcaption>
 
-It was mostly trial and error because of limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like a programming exercise e.g. logical steps and conditional states for triggering animations, considering the inputs and outputs for a process and how the inputs may produce the output.
+It was mostly trial and error because of limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like a programming exercise e.g. logical steps and conditional states for triggering animations considering the inputs and outputs for a process and how the inputs may produce the output.
 
 ![A light switch prototype for testing ProtoPie and LittleBits (off state)](/static/img/littlebits-protopie-light-off-test.png) <figcaption>A light switch prototype for testing ProtoPie and LittleBits (off state).</figcaption>
 
 ![A light switch prototype for testing ProtoPie and LittleBits (on state)](/static/img/littlebits-protopie-light-on-test.png) <figcaption>A light switch prototype for testing ProtoPie and LittleBits (on state).</figcaption>
 
-## Prototyping
+### Prototyping
 
 Aside from learning new tools, it was also my first experience creating animations for a UX project. Throughout the process, I was always testing and to keep the prototypes simple, we planned this phase into two parts:
 
 - Create prototypes in ProtoPie
 - Integrate LittleBits to show interactions between software and hardware
 
-### Creating prototypes in ProtoPie
+#### Creating prototypes in ProtoPie
 
 From our Ideation, we have created prototypes for the following interactions:
 
@@ -97,7 +98,8 @@ Before prototyping, Stephanie created the designs in Adobe XD. I then imported t
 When the prototypes are complete, the next step is to include LittleBits. So far, the only method for connecting ProtoPie and LittleBits together is to have the same message ID. This is like a destination address for sending and receiving messages. The ID is entered into ProtoPie and the bridge app (provided by ProtoPie) to enable communication between the two.
 
 https://vimeo.com/320971006
-
+&nbsp;
+&nbsp;
 Again, I had to do many tests and iterations because the hardware can change the states and inputs/outputs of the prototype. The process was time consuming because integrating LittleBits added another layer of complexity.
 
 The following videos are two of the prototypes demonstrated at the Adobe Max 2018 and UX Playground event.
