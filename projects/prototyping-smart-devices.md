@@ -1,5 +1,5 @@
 ---
-title: Prototyping smart devices
+title: Prototyping smart device experiences
 emoji: 🚀
 metaDescription: A project on prototyping smart devices using Protopie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
 summary: A project on prototyping smart devices using Protopie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
@@ -36,9 +36,7 @@ The following are the key areas we focused on:
 ### Team
 
 Natalie Man, UX Designer
-
 Chakib Labidi, UX Consultant and UX Playground founder
-
 Stephanie Howard, Digital Designer, Nelson Bostock
 
 ### Research
@@ -88,9 +86,7 @@ From our Ideation, we have created prototypes for the following interactions:
 - Play music with the option to skip songs
 - Monitor and change room temperature on AC unit
 
-For inspiration, we researched animations created by designers on Dribbble. However, we also considered that the animation should feel familiar in relation to the real world e.g. a light switch with a button.
-
-<img src="/static/img/dribbble-adjust-light-teo-choong-ching.gif"> [Adjust the brightness level (Principle working file)](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D) <figcaption>Adjusting brightness level by Teo Choong Ching.</figcaption>
+For inspiration, we researched animations created by designers on Dribbble. However, we also considered that the animation should feel familiar in relation to the real world e.g. ![adjusting brightness with a slider](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D).
 
 Before prototyping, Stephanie created the designs in Adobe XD. I then imported them into ProtoPie and experimented with different solutions. It was an iterative process until we found a solution that matches the vision we had for each of the prototype.
 
@@ -111,3 +107,5 @@ The following videos are two of the prototypes demonstrated at the Adobe Max 201
 https://vimeo.com/320971419
 
 https://vimeo.com320973092
+
+### Event
