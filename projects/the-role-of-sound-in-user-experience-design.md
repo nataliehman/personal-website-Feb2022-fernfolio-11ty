@@ -101,6 +101,5 @@ The research was presented at:
 
 ![Chakib presenting to lecturers and students at Istanbul Bilgi University](/static/img/istanbul-bilgi-uni.png) <figcaption>Chakib explaining how our shopping behaviour changes when we hear Christmas music during Christmas (department of Industrial Design, Istanbul Bilgi University).</figcaption>
 
-https://vimeo.com/636088406/3f7b46a253
-<figcaption>Chakib delivering the presentation at Berlin Design Week online (Starting at 19:04)</figcaption>
+[![Berlin Design Week - DESIGNING VOICES 2021](/static/img/berlin-design-week.png)](https://vimeo.com/636088406/3f7b46a253 "Berlin Design Week - DESIGNING VOICES 2021") <figcaption>Chakib delivering the presentation at Berlin Design Week online (Starting at 19:04)</figcaption>
 
