@@ -100,10 +100,12 @@ https://vimeo.com/320971006
 
 Again, I had to do many tests and iterations because the hardware can change the states and inputs/outputs of the prototype. The process was time consuming because integrating LittleBits added another layer of complexity.
 
-The following videos are two of the prototypes demonstrated at the Adobe Max 2018 and UX Playground Meetup event.
+The following videos are two of the prototypes demonstrated at the Adobe Max 2018 and UX Playground event.
 
 https://vimeo.com/320971419
 
 https://vimeo.com320973092
+
+https://www.youtube.com/watch?v=643GX1C8vdk
 
 ### Event
