@@ -6,6 +6,14 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = function(eleventyConfig) {
 
+  // Eleventy plugin - eleventy-plugin-embed-everything for embedding videos
+  // https://github.com/gfscott/eleventy-plugin-embed-everything
+  const embedEverything = require("eleventy-plugin-embed-everything");
+
+    module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(embedEverything);
+  };
+
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
@@ -115,13 +123,5 @@ module.exports = function(eleventyConfig) {
       data: "_data",
       output: "_site"
     }
-  };
-
-  // Eleventy plugin - eleventy-plugin-embed-everything for embedding videos
-  // https://github.com/gfscott/eleventy-plugin-embed-everything
-  const embedEverything = require("eleventy-plugin-embed-everything");
-
-    module.exports = function(eleventyConfig) {
-    eleventyConfig.addPlugin(embedEverything);
   };
 };

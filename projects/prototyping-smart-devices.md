@@ -48,30 +48,30 @@ Our research covered topics such as UI kits, interfaces, and prototyping. Since 
 - What is the difference between prototyping smart device interfaces vs non-smart device interface?
 - What are the challenges?
 
-![Non-smart device UI research](https://boring-wright-dbc496.netlify.app/static/img/non-smart-ui-research.png) &lt;figcaption&gt;Research for prototyping with non-smart device interfaces.&lt;/figcaption&gt;
-![Smart device UI research](https://boring-wright-dbc496.netlify.app/static/img/smart-ui-research.png) &lt;figcaption&gt;Research for prototyping with smart device interfaces.&lt;/figcaption&gt;
+![Non-smart device UI research](/static/img/non-smart-ui-research.png) <figcaption>Research for prototyping with non-smart device interfaces.</figcaption>
+![Smart device UI research](/static/img/smart-ui-research.png) <figcaption>Research for prototyping with smart device interfaces.</figcaption>
 
 I also researched what prototyping tools Adobe XD can integrate with. However, from my experience with the UX Playground project, we used ProtoPie as the tool for prototyping animation and interaction (this was before Adobe implemented the Auto-animate feature into XD).
 
 We spoke with a staff member from ProtoPie, who suggested us to use Arduino and LittleBits for smart device prototyping. I knew Arduino required programming, so I researched LittleBits as I had no knowledge on what it does.
 
-![Smart device UI research](https://boring-wright-dbc496.netlify.app/static/img/littlebits.png) &lt;figcaption&gt;LittleBits is a tool for teaching people from all ages to build, prototype and invent with electronics.&lt;/figcaption&gt;
+![Smart device UI research](/static/img/littlebits.png) <figcaption>LittleBits is a tool for teaching people from all ages to build, prototype and invent with electronics.</figcaption>
 
 ### Ideation
 
 For ideation, we explored how we interact with physical interfaces e.g. light switch, and how they are designed in existing smart devices. This is mainly to help us understand how we can do hardware prototyping.
 
-![Ideation session](https://boring-wright-dbc496.netlify.app/static/img/ideation-session.png) &lt;figcaption&gt;One of our ideation session with Stephanie joining us online.&lt;/figcaption&gt;
+![Ideation session](/static/img/ideation-session.png) <figcaption>One of our ideation session with Stephanie joining us online.</figcaption>
 
 Throughout this phase, I was experimenting and testing how LittleBits work with ProtoPie. This exercise allowed us to see what types of interactions we can prototype for the project.
 
-![Experimenting with LittleBits](https://boring-wright-dbc496.netlify.app/static/img/littlebits-light-dimming.png) &lt;figcaption&gt; Stephanie testing light dimming with LittleBits.&lt;/figcaption&gt;
+![Experimenting with LittleBits](/static/img/littlebits-light-dimming.png) <figcaption> Stephanie testing light dimming with LittleBits.</figcaption>
 
 It was mostly trial and error because of limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like a programming exercise e.g. logical steps and conditional states for triggering animations, considering the inputs and outputs for a process and how the inputs may produce the output.
 
-![A light switch prototype for testing ProtoPie and LittleBits (off state)](https://boring-wright-dbc496.netlify.app/static/img/littlebits-protopie-light-off-test.png) &lt;figcaption&gt;A light switch prototype for testing ProtoPie and LittleBits (off state).&lt;/figcaption&gt;
+![A light switch prototype for testing ProtoPie and LittleBits (off state)](/static/img/littlebits-protopie-light-off-test.png) <figcaption>A light switch prototype for testing ProtoPie and LittleBits (off state).</figcaption>
 
-![A light switch prototype for testing ProtoPie and LittleBits (on state)](https://boring-wright-dbc496.netlify.app/static/img/littlebits-protopie-light-on-test.png) &lt;figcaption&gt;A light switch prototype for testing ProtoPie and LittleBits (on state).&lt;/figcaption&gt;
+![A light switch prototype for testing ProtoPie and LittleBits (on state)](/static/img/littlebits-protopie-light-on-test.png) <figcaption>A light switch prototype for testing ProtoPie and LittleBits (on state).</figcaption>
 
 ## Prototyping
 
@@ -90,15 +90,13 @@ From our Ideation, we have created prototypes for the following interactions:
 
 For inspiration, we researched animations created by designers on Dribbble. However, we also considered that the animation should feel familiar in relation to the real world e.g. a light switch with a button.
 
-<img src="https://boring-wright-dbc496.netlify.app/static/img/dribbble-adjust-light-teo-choong-ching.gif"> [Adjust the brightness level (Principle working file)](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D) &lt;figcaption&gt;Adjusting brightness level by Teo Choong Ching.&lt;/figcaption&gt;
+<img src="/static/img/dribbble-adjust-light-teo-choong-ching.gif"> [Adjust the brightness level (Principle working file)](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D) <figcaption>Adjusting brightness level by Teo Choong Ching.</figcaption>
 
 Before prototyping, Stephanie created the designs in Adobe XD. I then imported them into ProtoPie and experimented with different solutions. It was an iterative process until we found a solution that matches the vision we had for each of the prototype.
 
-![A prototype for controlling light](https://boring-wright-dbc496.netlify.app/static/img/light-switch-prototype.png) &lt;figcaption&gt;A test prototype for creating sliders and switches to control light.&lt;/figcaption&gt;
+![A prototype for controlling light](/static/img/light-switch-prototype.png) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
 
-{{&lt; figure class=“course-photos text-center” src=“imgs/prototype-review.jpg” title=“The team reviewing the UI design and prototype” &gt;}}
-
-![Prototype and UI review](https://boring-wright-dbc496.netlify.app/static/img/prototype-review.png) &lt;figcaption&gt;Our team reviewing the UI design and prototype.&lt;/figcaption&gt;
+![Prototype and UI review](/static/img/prototype-review.png) <figcaption>Our team reviewing the UI design and prototype.</figcaption>
 
 ### Integrating LittleBits with the prototypes
 
