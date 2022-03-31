@@ -98,8 +98,8 @@ Before prototyping, Stephanie created the designs in Adobe XD. I then imported t
 When the prototypes are complete, the next step is to include LittleBits. So far, the only method for connecting ProtoPie and LittleBits together is to have the same message ID. This is like a destination address for sending and receiving messages. The ID is entered into ProtoPie and the bridge app (provided by ProtoPie) to enable communication between the two.
 
 https://vimeo.com/320971006
-&nbsp;
-&nbsp;
+
+
 Again, I had to do many tests and iterations because the hardware can change the states and inputs/outputs of the prototype. The process was time consuming because integrating LittleBits added another layer of complexity.
 
 The following videos are two of the prototypes demonstrated at the Adobe Max 2018 and UX Playground event.
