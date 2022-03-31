@@ -1,18 +1,14 @@
 ---
-
-title: Prototyping smart devices
-emoji: 🚀
+title: Prototyping smart devices
+emoji: 🚀
 metaDescription: A project on prototyping smart devices using Protopie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
 summary: A project on prototyping smart devices using Protopie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
-
 tags:
-
-- Research
-- Data analysis
-- Prototyping
-- Testing
-- Animation
-
+  - Research
+  - Data analysis
+  - Prototyping
+  - Testing
+  - Animation
 ---
 
 ### Personal note
