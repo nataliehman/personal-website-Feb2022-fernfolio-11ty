@@ -3,16 +3,13 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const embedEverything = require("eleventy-plugin-embed-everything");
 
 module.exports = function(eleventyConfig) {
 
   // Eleventy plugin - eleventy-plugin-embed-everything for embedding videos
   // https://github.com/gfscott/eleventy-plugin-embed-everything
-  const embedEverything = require("eleventy-plugin-embed-everything");
-
-    module.exports = function(eleventyConfig) {
-    eleventyConfig.addPlugin(embedEverything);
-  };
+  eleventyConfig.addPlugin(embedEverything);
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);

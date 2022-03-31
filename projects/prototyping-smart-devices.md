@@ -86,13 +86,11 @@ From our Ideation, we have created prototypes for the following interactions:
 - Play music with the option to skip songs
 - Monitor and change room temperature on AC unit
 
-For inspiration, we researched animations created by designers on Dribbble. However, we also considered that the animation should feel familiar in relation to the real world e.g. ![adjusting brightness with a slider](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D).
+For inspiration, we researched animations created by designers on Dribbble. However, we also considered that the animation should feel familiar in relation to the real world e.g. [adjusting brightness with a slider](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D).
 
 Before prototyping, Stephanie created the designs in Adobe XD. I then imported them into ProtoPie and experimented with different solutions. It was an iterative process until we found a solution that matches the vision we had for each of the prototype.
 
 ![A prototype for controlling light](/static/img/light-switch-prototype.png) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
-
-![Prototype and UI review](/static/img/prototype-review.png) <figcaption>Our team reviewing the UI design and prototype.</figcaption>
 
 ### Integrating LittleBits with the prototypes
 
