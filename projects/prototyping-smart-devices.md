@@ -1,6 +1,6 @@
 ---
 title: Prototyping smart device experiences
-emoji: 🚀
+emoji: 📱
 metaDescription: A project on prototyping smart devices using Protopie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
 summary: A project on prototyping smart devices using Protopie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
 tags:
@@ -13,19 +13,15 @@ tags:
 
 ### Personal note
 
-Creating prototypes with hardware was a fun yet challenging experience. ProtoPie can create high fidelity complex prototypes without coding, which made the process less intimidating. However, it can be time consuming as it requires testing.
-
-When prototyping, there should be a plan on what tasks the team will do. This ensures that the final prototype achieves the vision the team has. It also helps the team to know what research is required and what solutions are possible after reviewing.
+Creating interactive prototypes with hardware was a fun yet challenging experience. ProtoPie can create high fidelity complex prototypes without coding, which made the process less intimidating. However, it can be time consuming as it requires testing. When prototyping, there should be a plan on what tasks the team will do. This ensures that the final prototype achieves the vision the team has. It also helps the team to know what research is required and what solutions are possible after reviewing.
 
 ### Overview
 
-This project focused on the tools available for prototyping with smart devices.
-
-We prepared this project as part of the [Adobe Max event](https://2018.max.adobe.com/sessions/max-online/#24803), which took place on 15-17 October 2018. The project was also showcased in a [UX Playground meetup event](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/) on 26 September 2018.
+With more smart devices entering the market, managing our daily activities and acquiring information has become increasingly convenient. These smart capabilities have created an extra layer of complexity, which can be challenging for designers to develop strategies and solutions. Designers may need to explore areas such as electronics, to better understand how the interactions between humans, hardware and software can affect the overall user experience of a smart device.
 
 ### Creating interactive smart device prototype
 
-To create an interactive smart device prototype with Adobe XD, which showcases its features and how it can prototype concepts.
+Our goal was to develop a smart device prototype in Adobe XD and highlight its features in a presentation for [Adobe Max 2018](https://2018.max.adobe.com/sessions/max-online/#24803). It was also showcased at [UX Playground in WeWork, London](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/).
 
 The following are the key areas we focused on:
 
@@ -106,7 +102,11 @@ The following videos are two of the prototypes demonstrated at the Adobe Max 201
 
 https://vimeo.com/320971419
 
+<br/>     
+
 https://vimeo.com/320973092
+
+<br/> 
 
 https://www.youtube.com/watch?v=643GX1C8vdk
 
