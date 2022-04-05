@@ -50,8 +50,6 @@ I also researched what prototyping tools Adobe XD can integrate with. However, f
 
 We contacted ProtoPie, who suggested us to use [Arduino](https://blog.ProtoPie.io/arduino-prototyping-with-ProtoPie-7932ececfec5) and [LittleBits](https://www.youtube.com/watch?v=Iv25TVsOHdU) for smart device prototyping. I knew Arduino required programming but LittleBits needed research as I was not familiar with the product.
 
-![Me explaining to Chakib how I think LittleBits work](/static/img/connecting-LittleBits.png) <figcaption>Me explaining to Chakib how I think LittleBits work.</figcaption>
-
 ![My demo on a light switch using LittleBits' tutorial](/static/img/LittleBits-experiment.png) <figcaption>My demo on a light switch using LittleBits' tutorial.</figcaption>
 
 ### Understanding interactions between human, hardware and software
@@ -60,15 +58,11 @@ For ideation, we explored how we interact with physical interfaces e.g. light sw
 
 ![Ideation session](/static/img/ideation-session.png) <figcaption>One of our ideation session with Stephanie joining us online.</figcaption>
 
-![Experimenting with LittleBits](/static/img/LittleBits-light-dimming.png) <figcaption> Stephanie testing light dimming with LittleBits.</figcaption>
-
 Throughout this phase, I was experimenting and testing how LittleBits work with ProtoPie. It allowed us to see what types of interactions we can prototype for the project. The process was mostly trial and error due to limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like I was programming visually e.g. logical steps and conditional states for triggering animations, considering the inputs and outputs for a process and how the inputs may produce the output.
 
-![ProtoPie light dimming prototype connected to LittleBits components](/static/img/LittleBits-ProtoPie-light-off-test.png) <figcaption>ProtoPie light dimming prototype connected to LittleBits components.</figcaption>
+![ProtoPie light dimming prototype connected to LittleBits components](/static/img/littlebits-protopie-light-prototype.webp) <figcaption>Light dimming prototype (ProtoPie) connected to LittleBits components. The Light Wire component turns on at 40% brightness when I use the Light Dimmer component. The light becomes 100% brightness when I use the slider.</figcaption>
 
-![Using the slider on the prototype to turn on the Light Wire component](/static/img/LittleBits-ProtoPie-light-on-test.png) <figcaption>Using the slider on the prototype to turn on the Light Wire component.</figcaption>
-
-![The prototype showing how bright/dark the Light Wire is as I use the Light Dimmer component](/static/img/LittleBits-ProtoPie-light-dimming-test.png) <figcaption>The prototype showing how bright/dark the Light Wire is as I use the Light Dimmer component.</figcaption>
+https://vimeo.com/320971006
 
 Due to the complexity of developing the prototype digitally and physically, I had to do this in two parts:
 
@@ -92,8 +86,6 @@ Before prototyping, Stephanie created the designs in Adobe XD. I then imported t
 ### Integrating LittleBits with the prototypes
 
 When the prototypes are complete, the next step is to include LittleBits. So far, the only method for connecting ProtoPie and LittleBits together is to have the same message ID. This is like a destination address for sending and receiving messages. The ID is entered into ProtoPie and the bridge app (provided by ProtoPie) to enable communication between the two.
-
-https://vimeo.com/320971006
 
 Again, I had to do many tests and iterations because the hardware can change the states and inputs/outputs of the prototype. The process was time consuming because integrating LittleBits added another layer of complexity.
 
