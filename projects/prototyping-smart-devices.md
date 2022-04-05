@@ -54,11 +54,11 @@ We contacted ProtoPie, who suggested us to use [Arduino](https://blog.ProtoPie.i
 
 ### Understanding interactions between human, hardware and software
 
-For ideation, we explored how we interact with physical interfaces e.g. light switch, and how they are designed in existing smart devices. This is mainly to help us understand how we can do hardware prototyping.
+For ideation, we explored how we interact with physical interfaces e.g. light switch, and how they are designed in existing smart devices. This helped us to plan our process and divide the work within the team.
 
-![Ideation session](/static/img/ideation-session.png) <figcaption>One of our ideation session with Stephanie joining us online.</figcaption>
+![Ideation session](/static/img/our-process.png) <figcaption>Our workflow process to create the smart device prototypes.</figcaption> (put border around image)
 
-Throughout this phase, I was experimenting and testing how LittleBits work with ProtoPie. It allowed us to see what types of interactions we can prototype for the project. The process was mostly trial and error due to limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like I was programming visually e.g. logical steps and conditional states for triggering animations, considering the inputs and outputs for a process and how the inputs may produce the output.
+Throughout this phase, I was experimenting with LittleBits and ProtoPie. It helped us to see what types of simple interactions we can prototype for the project. The process was mostly trial and error due to limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like I was doing programming visually e.g. logical steps and conditional states for triggering animations, considering the inputs and outputs, and how inputs may produce the output.
 
 ![ProtoPie light dimming prototype connected to LittleBits components](/static/img/littlebits-protopie-light-prototype.webp) <figcaption>Light dimming prototype (ProtoPie) connected to LittleBits components. The Light Wire component turns on at 40% brightness when I use the Light Dimmer component. The light becomes 100% brightness when I use the slider.</figcaption>
 
@@ -71,17 +71,23 @@ Due to the complexity of developing the prototype digitally and physically, I ha
 
 #### Creating prototypes in ProtoPie
 
-From our Ideation, we have created prototypes for the following interactions:
+From our Ideation, we focused on creating prototypes for the following interactions:
 
 - To control lights by dimming and switching them on/off
 - Play music with the option to skip songs
 - Monitor and change room temperature on AC unit
 
-For inspiration, we researched animations created by designers on Dribbble. However, we also considered that the animation should feel familiar in relation to the real world e.g. [adjusting brightness with a slider](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D).
+We also researched animations and interactions created by other designers for inspiration. However, we were mindful of creating animations/interactions that should feel familiar and natural (in relation to the real world) e.g. [adjusting brightness with a slider](https://dribbble.com/shots/3572111-Adjust-the-brightness-level-Principle-working-file%E2%80%9D).
 
 Before prototyping, Stephanie created the designs in Adobe XD. I then imported them into ProtoPie and experimented with different solutions. It was an iterative process until we found a solution that matches the vision we had for each of the prototype.
 
-![A prototype for controlling light](/static/img/light-switch-prototype.png) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
+![A test prototype for controlling light](/static/img/light-switch-prototype.png) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
+
+![A dashboard prototype for iPad](/static/img/dashboard-ipad-prototype.png) <figcaption>Creating the dashboard prototype for iPad.</figcaption>
+
+![A music player prototype for Pixel 2](/static/img/musicplayer-pixel2-prototype.png) <figcaption>Creating the music player prototype for Pixel 2.</figcaption>
+
+![A ac prototype for iPhone](/static/img/ac-iphone-prototype.png) <figcaption>Creating the air conditioning controller prototype for iPhone.</figcaption>
 
 ### Integrating LittleBits with the prototypes
 
@@ -89,7 +95,7 @@ When the prototypes are complete, the next step is to include LittleBits. So far
 
 Again, I had to do many tests and iterations because the hardware can change the states and inputs/outputs of the prototype. The process was time consuming because integrating LittleBits added another layer of complexity.
 
-The following videos are two of the prototypes demonstrated at the Adobe Max 2018 and UX Playground event.
+The following videos are all of the prototypes demonstrated at Adobe Max 2018, UX Playground and Digital Age Tech Summit.
 
 https://vimeo.com/320971419
 
@@ -99,6 +105,18 @@ https://vimeo.com/320973092
 
 <br/> 
 
-https://www.youtube.com/watch?v=643GX1C8vdk
+https://www.youtube.com/watch?v=NF3dL5OCfcE
 
-### Event
+### Sharing with the community
+
+Our work was showcased at:
+
+- [UX Playground at WeWork London with 75 signups](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/)
+- [Adobe Max 2018 in Los Angeles](https://2018.max.adobe.com/sessions/max-online/#24803)
+- [Digital Age Tech Summit in Istanbul](https://digitalagesummit.com/en/schedule/the-smartest-kid-on-the-block-designing-and-prototyping-smart-device-experiences/)
+
+![Chakib explaining LittleBits to the audience at UX Playground at WeWork London.](/static/img/ux-playground.png) <figcaption>Chakib explaining LittleBits to the audience at UX Playground (WeWork London).</figcaption>
+
+[![Recording of Chakib presenting at Adobe Max 2018](/static/img/adobe-max-2018.png)](https://2018.max.adobe.com/sessions/max-online/#24803 "Adobe Max 2018") <figcaption>Recording of Chakib presenting at Adobe Max 2018 in Los Angeles.</figcaption>
+
+![Chakib presenting at Digital Age Tech Summit in Istanbul.](/static/img/digital-age-tech-summit.png) <figcaption>Chakib presenting at Digital Age Tech Summit in Istanbul. Photo by [Digital Age Tech Summit](https://digitalagesummit.com/en/galeri/) </figcaption>
