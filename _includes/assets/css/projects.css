@@ -15,7 +15,7 @@
   display: block;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 15px 30px;
   border: 2px solid var(--color-border);
 }
@@ -36,4 +36,17 @@
 
 .project-card__emoji {
   margin-right: 8px;
+}
+
+.project-card h4 {
+  margin: 1rem 0 0;
+}
+
+/* Custom css */
+.cover-img-container a {
+  border-bottom:none;
+}
+
+.cover-img-container img {
+  margin-bottom:0;
 }
