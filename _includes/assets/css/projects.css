@@ -18,6 +18,7 @@
   justify-content: flex-start;
   padding: 15px 30px;
   border: 2px solid var(--color-border);
+  background-color: var(--color-bg);
 }
 
 .project-card__title {
@@ -49,4 +50,11 @@
 
 .cover-img-container img {
   margin-bottom:0;
+  margin-top:1.3rem;
+  border: 1px solid #ECEFF1;
+}
+
+.project-card__client {
+  color: var(--color-secondary);
+  font-weight: 700;
 }

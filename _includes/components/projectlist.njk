@@ -22,9 +22,15 @@
         </h4>
         {% if post.data.summary %}
           <p>
-            {{ post.data.summary }}
+            {{ post.data.summary }}            
           </p>
         {% endif %}
+        {% if post.data.client %}
+          <p class="project-card__client">
+            Client: {{ post.data.client }}
+          </p>
+        {% endif %}
+        
         {% if post.data.tags %}
           <p class="tag-list">
             {% for tag in post.data.tags %}

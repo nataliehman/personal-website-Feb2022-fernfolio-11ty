@@ -45,12 +45,12 @@
 
 .tag {
   margin: 10px 10px 0 0;
-  padding: 6px 8px;
+  padding: 6px 7px;
   background-color: var(--color-bg-secondary);
   border-radius: var(--border-radius-sm);
   color: var(--color-secondary);
   white-space: nowrap;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 500;
 }
 

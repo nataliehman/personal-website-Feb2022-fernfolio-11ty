@@ -1,7 +1,8 @@
 ---
 title: Prototyping smart device experiences
 metaDescription: A project on prototyping smart devices using ProtoPie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
-summary: A project on prototyping smart devices using ProtoPie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
+summary: 
+client: Adobe
 cover: smart-device-cover.png
 tags:
   - Research
@@ -42,25 +43,25 @@ Our research covered topics such as UI kits, interfaces, and prototyping. My tas
 - What is the difference between prototyping smart device interfaces vs non-smart device interface?
 - What are the challenges?
 
-![Non-smart device UI research](/static/img/non-smart-ui-research.png) <figcaption>Research for prototyping with non-smart device interfaces.</figcaption>
+![Non-smart device UI research](/static/img/smart-device/non-smart-ui-research.png) <figcaption>Research for prototyping with non-smart device interfaces.</figcaption>
 
-![Smart device UI research](/static/img/smart-ui-research.png) <figcaption>Research for prototyping with smart device interfaces.</figcaption>
+![Smart device UI research](/static/img/smart-device/smart-ui-research.png) <figcaption>Research for prototyping with smart device interfaces.</figcaption>
 
 I also researched what prototyping tools Adobe XD can integrate with. However, from my experience with the UX Playground course, we tested [ProtoPie](https://www.ProtoPie.io/) as the tool for prototyping animation and interaction (this was before Adobe implemented the Auto-animate feature into XD).
 
 We contacted ProtoPie, who suggested us to use [Arduino](https://blog.ProtoPie.io/arduino-prototyping-with-ProtoPie-7932ececfec5) and [LittleBits](https://www.youtube.com/watch?v=Iv25TVsOHdU) for smart device prototyping. I knew Arduino required programming but LittleBits needed research as I was not familiar with the product.
 
-![My demo on a light switch using LittleBits' tutorial](/static/img/LittleBits-experiment.png) <figcaption>My demo on a light switch using LittleBits' tutorial.</figcaption>
+![My demo on a light switch using LittleBits' tutorial](/static/img/smart-device/LittleBits-experiment.png) <figcaption>My demo on a light switch using LittleBits' tutorial.</figcaption>
 
 ### Understanding interactions between human, hardware and software
 
 For ideation, we explored how we interact with physical interfaces e.g. light switch, and how they are designed in existing smart devices. This helped us to plan our process and divide the work within the team.
 
-![Ideation session](/static/img/our-process.png) <figcaption>Our workflow process to create the smart device prototypes.</figcaption> (put border around image)
+![Ideation session](/static/img/smart-device/our-process.png) <figcaption>Our workflow process to create the smart device prototypes.</figcaption>
 
 Throughout this phase, I was experimenting with LittleBits and ProtoPie. It helped us to see what types of simple interactions we can prototype for the project. The process was mostly trial and error due to limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like I was doing programming visually e.g. logical steps and conditional states for triggering animations, considering the inputs and outputs, and how inputs may produce the output.
 
-![ProtoPie light dimming prototype connected to LittleBits components](/static/img/littlebits-protopie-light-prototype.webp) <figcaption>Light dimming prototype (ProtoPie) connected to LittleBits components. The Light Wire component turns on at 40% brightness when I use the Light Dimmer component. The light becomes 100% brightness when I use the slider.</figcaption>
+![ProtoPie light dimming prototype connected to LittleBits components](/static/img/smart-device/littlebits-protopie-light-prototype.webp) <figcaption>Light dimming prototype (ProtoPie) connected to LittleBits components. The Light Wire component turns on at 40% brightness when I use the Light Dimmer component. The light becomes 100% brightness when I use the slider.</figcaption>
 
 https://vimeo.com/320971006
 
@@ -81,13 +82,13 @@ We also researched animations and interactions created by other designers for in
 
 Before prototyping, Stephanie created the designs in Adobe XD. I then imported them into ProtoPie and experimented with different solutions. It was an iterative process until we found a solution that matches the vision we had for each of the prototype.
 
-![A test prototype for controlling light](/static/img/light-switch-prototype.png) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
+![A test prototype for controlling light](/static/img/smart-device/light-switch-prototype.png) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
 
-![A dashboard prototype for iPad](/static/img/dashboard-ipad-prototype.png) <figcaption>Creating the dashboard prototype for iPad.</figcaption>
+![A dashboard prototype for iPad](/static/img/smart-device/dashboard-ipad-prototype.png) <figcaption>Creating the dashboard prototype for iPad.</figcaption>
 
-![A music player prototype for Pixel 2](/static/img/musicplayer-pixel2-prototype.png) <figcaption>Creating the music player prototype for Pixel 2.</figcaption>
+![A music player prototype for Pixel 2](/static/img/smart-device/musicplayer-pixel2-prototype.png) <figcaption>Creating the music player prototype for Pixel 2.</figcaption>
 
-![A ac prototype for iPhone](/static/img/ac-iphone-prototype.png) <figcaption>Creating the air conditioning controller prototype for iPhone.</figcaption>
+![A ac prototype for iPhone](/static/img/smart-device/ac-iphone-prototype.png) <figcaption>Creating the air conditioning controller prototype for iPhone.</figcaption>
 
 ### Integrating LittleBits with the prototypes
 
@@ -115,8 +116,8 @@ Our work was showcased at:
 - [Adobe Max 2018 in Los Angeles](https://2018.max.adobe.com/sessions/max-online/#24803)
 - [Digital Age Tech Summit in Istanbul](https://digitalagesummit.com/en/schedule/the-smartest-kid-on-the-block-designing-and-prototyping-smart-device-experiences/)
 
-![Chakib explaining LittleBits to the audience at UX Playground at WeWork London.](/static/img/ux-playground.png) <figcaption>Chakib explaining LittleBits to the audience at UX Playground (WeWork London).</figcaption>
+![Chakib explaining LittleBits to the audience at UX Playground at WeWork London.](/static/img/smart-device/ux-playground.png) <figcaption>Chakib explaining LittleBits to the audience at UX Playground (WeWork London).</figcaption>
 
-[![Recording of Chakib presenting at Adobe Max 2018](/static/img/adobe-max-2018.png)](https://2018.max.adobe.com/sessions/max-online/#24803 "Adobe Max 2018") <figcaption>Recording of Chakib presenting at Adobe Max 2018 in Los Angeles.</figcaption>
+[![Recording of Chakib presenting at Adobe Max 2018](/static/img/smart-device/adobe-max-2018.png)](https://2018.max.adobe.com/sessions/max-online/#24803 "Adobe Max 2018") <figcaption>Recording of Chakib presenting at Adobe Max 2018 in Los Angeles.</figcaption>
 
-![Chakib presenting at Digital Age Tech Summit in Istanbul.](/static/img/digital-age-tech-summit.png) <figcaption>Chakib presenting at Digital Age Tech Summit in Istanbul. Photo by [Digital Age Tech Summit](https://digitalagesummit.com/en/galeri/) </figcaption>
+![Chakib presenting at Digital Age Tech Summit in Istanbul.](/static/img/smart-device/digital-age-tech-summit.png) <figcaption>Chakib presenting at Digital Age Tech Summit in Istanbul. Photo by [Digital Age Tech Summit](https://digitalagesummit.com/en/galeri/) </figcaption>
