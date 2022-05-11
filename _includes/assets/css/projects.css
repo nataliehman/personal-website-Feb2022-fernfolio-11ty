@@ -51,7 +51,7 @@
 .cover-img-container img {
   margin-bottom:0;
   margin-top:1.3rem;
-  border: 1px solid #ECEFF1;
+  border: 1px solid var(--border-img-color);
 }
 
 .project-card__client {

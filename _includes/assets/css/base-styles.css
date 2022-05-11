@@ -17,7 +17,7 @@ body {
   line-height: 1.618;
   color: var(--color-text);
   background-color: var(--color-bg);
-  background: url("/static/img/crossword.png") repeat;
+  background: url("/static/img/greyzz.webp") repeat;
 }
 
 main {
@@ -131,7 +131,7 @@ img, video {
 figcaption {
   text-align: center;
     font-style: italic;
-    color: #636e72;
+    color: #3e3e3e;
     font-size: 0.9em;
     padding-bottom:2.5em;
 }

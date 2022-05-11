@@ -10,7 +10,7 @@
   width: 100%;
   /*max-width: 700px;*/
   margin: 4rem 0 auto;
-  border: 1px solid #ECEFF1;
+  border: 1px solid var(--border-img-color);
 }
 
 .shadow {
