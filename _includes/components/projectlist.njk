@@ -25,11 +25,13 @@
             {{ post.data.summary }}            
           </p>
         {% endif %}
+        <!--
         {% if post.data.client %}
           <p class="project-card__client">
-            Client: {{ post.data.client }}
+            Client: <img src="/static/img/{{ post.data.clientLogo }}" alt="{{ post.data.client }}"/>
           </p>
         {% endif %}
+        -->
         
         {% if post.data.tags %}
           <p class="tag-list">

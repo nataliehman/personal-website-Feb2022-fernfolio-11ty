@@ -87,3 +87,13 @@ My previous experience in web design and front-end development made this process
 ![This flow shows the process of adding a new contact into Mailchimp when someone fills in a form](/static/img/uxpg-website/mailchimp-campaign-details.png) <figcaption>Settings for creating a welcome email campaign for Project UX in Mailchimp.</figcaption>
 
 ![A preview of the welcome email in Mailchimp](/static/img/uxpg-website/mailchimp-campaign-preview.png) <figcaption>A preview of the welcome email in Mailchimp.</figcaption>
+
+### Website relaunch with the new design
+
+After implementing the website functionalities and finalising the content, the pages were created based on the new brand guidelines. [View the website here](https://www.uxplayground.co.uk/).
+
+![UX Playground's new homepage](/static/img/uxpg-website/uxplayground-home.png) <figcaption>UX Playground's new homepage.</figcaption>
+
+![Product page of Project UX](/static/img/uxpg-website/uxplayground-projectux.png) <figcaption>Product page of Project UX.</figcaption>
+
+![Sign up page for Project UX](/static/img/uxpg-website/uxplayground-signup.png) <figcaption>Sign up page for Project UX.</figcaption>
