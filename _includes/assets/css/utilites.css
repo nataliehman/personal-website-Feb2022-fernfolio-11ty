@@ -9,7 +9,7 @@
   display: flex;
   width: 100%;
   /*max-width: 700px;*/
-  margin: 4rem 0 auto;
+  margin: 5rem 0 auto;
   border: 1px solid var(--border-img-color);
 }
 
@@ -51,4 +51,14 @@
   background-color: var(--color-danger);
   color: var(--color-text-alt);
   filter: brightness(90%);
+}
+
+/* Custom CSS */
+.eleventy-plugin-youtube-embed,
+.eleventy-plugin-vimeo-embed,
+.eleventy-plugin-youtube-embed + p,
+.eleventy-plugin-vimeo-embed + p,
+.eleventy-plugin-youtube-embed + h3,
+.eleventy-plugin-vimeo-embed + h3  {
+  margin-top: 5rem;
 }

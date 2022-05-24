@@ -1,7 +1,7 @@
 ---
 title: Exploring sound in user experience design
 metaDescription: A research project about sound and its relevance in user experience design. The findings were presented at Brand Week Istanbul, Berlin Design Week, Istanbul Bilgi University and UX Playground.
-summary: 
+summary: KAPITAL MEDIA UK
 client: Kapital Media UK
 cover: sound-cover.png
 tags:
@@ -9,7 +9,6 @@ tags:
   - Data analysis
   - Mind mapping
   - Diary study
-  - Content first
   - Content strategy
 ---
 

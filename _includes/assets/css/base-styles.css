@@ -58,8 +58,7 @@ h2 {
   font-size: 2.00em; }
 
 h3 {
-  font-size: 1.75em; 
-  margin-top: 5rem; }
+  font-size: 1.75em; }
 
 h4 {
   font-size: 1.5em; }
@@ -71,7 +70,7 @@ h6 {
   font-size: 1em; }
 
 p {
-  margin-top: 2.5rem;
+  margin-top: 0px;
   margin-bottom: 2.5rem; }
 
 small, sub, sup {
@@ -133,7 +132,7 @@ figcaption {
     font-style: italic;
     color: #3e3e3e;
     font-size: 0.9em;
-    padding-bottom:2.5em;
+    padding-bottom:2em;
 }
 
 /* Pre and Code */

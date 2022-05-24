@@ -1,7 +1,7 @@
 ---
 title: Prototyping smart device experiences
 metaDescription: A project on prototyping smart devices using ProtoPie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
-summary: 
+summary: ADOBE
 client: Adobe
 cover: smart-device-cover.png
 tags:

@@ -78,10 +78,12 @@
 
 .hero__subtitle {
   margin-top: 0;
+  font-size: 1.5em;
 }
 
 @media (min-width: 1024px) {
   .hero__subtitle {
     margin-top: 3rem;
+    font-size: 1.75em;
   }
 }

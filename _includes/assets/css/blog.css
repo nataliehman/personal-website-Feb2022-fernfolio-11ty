@@ -44,11 +44,8 @@
 }
 
 .tag {
-  margin: 10px 10px 0 0;
-  padding: 6px 7px;
-  background-color: var(--color-bg-secondary);
-  border-radius: var(--border-radius-sm);
-  color: var(--color-secondary);
+  margin: 2px 10px 0 0;
+  color: var(--color-primary);
   white-space: nowrap;
   font-size: 12px;
   font-weight: 500;
@@ -56,6 +53,7 @@
 
 .tag:hover {
   border: none;
+  color: var(--color-secondary);
 }
 
 .tag:first-child {

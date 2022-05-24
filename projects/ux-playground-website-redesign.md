@@ -1,15 +1,14 @@
 ---
 title: Redesigning UX Playground's website
 metaDescription: A research project about sound and its relevance in user experience design. The findings were presented at Brand Week Istanbul, Berlin Design Week, Istanbul Bilgi University and UX Playground.
-summary: 
+summary: UX PLAYGROUND
 client: UXPG
 cover: uxpg-website.png
 tags:
   - Research
-  - Journey mapping
+  - User flows
   - Wireframing
   - Prototyping
-  - Content first
   - Content strategy
   - Testing
 ---

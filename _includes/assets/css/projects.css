@@ -25,22 +25,12 @@
   color: var(--color-text);
 }
 
-.project-card__tag {
-  background-color: var(--color-secondary);
-  color: var(--color-text-alt);
-}
-
-.project-card__tag:hover {
-  color: var(--color-text-alt);
-  filter: brightness(90%);
-}
-
 .project-card__emoji {
   margin-right: 8px;
 }
 
 .project-card h4 {
-  margin: 1rem 0 0;
+  margin: 2rem 0;
 }
 
 /* Custom css */
@@ -54,7 +44,8 @@
   border: 1px solid var(--border-img-color);
 }
 
-.project-card__client {
+.project-card p {
   color: var(--color-secondary);
-  font-weight: 700;
+  font-weight:700;
+  font-size: 1.5rem;
 }
