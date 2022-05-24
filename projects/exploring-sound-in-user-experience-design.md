@@ -5,11 +5,11 @@ summary: KAPITAL MEDIA UK
 client: Kapital Media UK
 cover: sound-cover.png
 tags:
-  - Research
-  - Data analysis
-  - Mind mapping
-  - Diary study
   - Content strategy
+  - Data analysis
+  - Diary study
+  - Mind mapping
+  - Research
 ---
 
 ### Personal note

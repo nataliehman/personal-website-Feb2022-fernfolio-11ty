@@ -5,12 +5,12 @@ summary: UX PLAYGROUND
 client: UXPG
 cover: uxpg-website.png
 tags:
+  - Content strategy
+  - Prototyping
   - Research
+  - Testing
   - User flows
   - Wireframing
-  - Prototyping
-  - Content strategy
-  - Testing
 ---
 
 ### Personal note

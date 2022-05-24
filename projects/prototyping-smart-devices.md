@@ -5,11 +5,12 @@ summary: ADOBE
 client: Adobe
 cover: smart-device-cover.png
 tags:
-  - Research
+  - Animation
   - Data analysis
   - Prototyping
+  - Research
   - Testing
-  - Animation
+  
 ---
 
 ### Personal note
