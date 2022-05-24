@@ -32,7 +32,7 @@ The following are the key areas we focused on:
 
 ### Team
 
-Natalie Man, Front-end Developer, Smartology
+Natalie H. Man, Front-end Developer, Smartology
 Chakib Labidi, UX Consultant and UX Playground founder
 Stephanie Howard, Digital Designer, Nelson Bostock
 
