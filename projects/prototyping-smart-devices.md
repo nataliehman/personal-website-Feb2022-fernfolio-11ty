@@ -60,7 +60,7 @@ For ideation, we explored how we interact with physical interfaces e.g. light sw
 
 ![Ideation session](/static/img/smart-device/our-process.png) <figcaption>Our workflow process to create the smart device prototypes.</figcaption>
 
-Throughout this phase, I was experimenting with LittleBits and ProtoPie. It helped us to see what types of simple interactions we can prototype for the project. The process was mostly trial and error due to limited resources for integrating LittleBits with ProtoPie. However, it was an interesting challenge as I had to test and build the prototypes in small stages. I had to consider areas such as the logical steps for an action, conditional states for triggering actions, type of inputs and outputs, and the expected output triggered from input actions.
+Throughout this phase, I was experimenting with LittleBits and ProtoPie. It helped us to see what types of simple interactions we can prototype for the project. The process was mostly trial and error due to limited resources for integrating LittleBits with ProtoPie. However, it was an interesting challenge as I built and tested the prototypes in small stages while considering factors such as logical steps, conditions for triggering actions, and expected outputs based on inputs.
 
 ![ProtoPie light dimming prototype connected to LittleBits components](/static/img/smart-device/littlebits-protopie-light-prototype.webp) <figcaption>Light dimming prototype (ProtoPie) connected to LittleBits components. The Light Wire component turns on at 40% brightness when I use the Light Dimmer component. The light becomes 100% brightness when I use the slider.</figcaption>
 
