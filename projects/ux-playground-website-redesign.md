@@ -32,7 +32,7 @@ Our goal was to create a new website design using UXPG's new branding guidelines
 ### Team
 
 Natalie H. Man, UX Designer, Freelance
-Chakib Labidi, UX Consultant and UX Playground founder
+Chakib Labidi, Senior UX Designer and UX Playground founder
 
 ### Creating the content structure
 
