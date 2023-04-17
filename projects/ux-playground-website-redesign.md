@@ -1,6 +1,6 @@
 ---
 title: Redesigning UX Playground's website
-metaDescription: A research project about sound and its relevance in user experience design. The findings were presented at Brand Week Istanbul, Berlin Design Week, Istanbul Bilgi University and UX Playground.
+metaDescription: A website redesign project for UX Playground's design community. This was part of the marketing strategy for promoting Project UX.
 summary: UX PLAYGROUND
 client: UXPG
 cover: uxpg-website.png
@@ -28,6 +28,21 @@ Our goal was to create a new website design using UXPG's new branding guidelines
 - To help promote the UX Playground community and its offering of events, courses and client projects.
 - A registration process for people to join Project UX.
 - Allow visitors to contact UX Playground for any queries they have.
+
+**Key stats**
+
+Since the launch of the new design, within 6 months the website had:
+
+- Increased visitor traffic by 91%.
+- Increased website sessions by 158%.
+- Increased pageviews by 219%.
+
+In 2021, with our community events done remotely we also utilised other channels apart from Meetup.com to promote events e.g. LinkedIn. Data showed that:
+
+- Other website and social media referrals increased by 23%.
+- Direct traffic increased by 10%.
+
+Overall, this suggests that by promoting the website across multiple channels e.g. LinkedIn, Meetup, Twitter etc. helps to raise awareness of UX Playground's content and design community.
 
 ### Team
 

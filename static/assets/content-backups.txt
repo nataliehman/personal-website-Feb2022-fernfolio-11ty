@@ -1,0 +1,4 @@
+home intro:
+I combine my experience in user-centered design and front-end development to create relevant and impactful solutions for people.
+
+[![Recording of Chakib presenting at Adobe Max 2018](/static/img/smart-device/adobe-max-2018.png)](https://2018.max.adobe.com/sessions/max-online/#24803 "Adobe Max 2018") <figcaption>Recording of Chakib presenting at Adobe Max 2018 in Los Angeles.</figcaption>

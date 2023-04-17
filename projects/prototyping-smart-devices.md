@@ -1,6 +1,6 @@
 ---
 title: Prototyping smart device experiences
-metaDescription: A project on prototyping smart devices using ProtoPie and LittleBits. This was showcased in Adobe Max 2018, UX Playground and Digital Age Summit.
+metaDescription: A project on prototyping smart devices using ProtoPie and LittleBits. This was showcased in Adobe MAX 2018, UX Playground and Digital Age Summit.
 summary: ADOBE
 client: Adobe
 cover: smart-device-cover.png
@@ -23,7 +23,7 @@ With more smart devices entering the market, managing our daily activities and a
 
 ### Creating a smart device prototype
 
-Our goal was to showcase the features of Adobe XD by developing a smart device prototype and presenting it at [Adobe Max 2018](https://2018.max.adobe.com/sessions/max-online/#24803). It was also showcased at [UX Playground in WeWork, London](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/) and [Digital Age Tech Summit, Istanbul](https://digitalagesummit.com/en/schedule/the-smartest-kid-on-the-block-designing-and-prototyping-smart-device-experiences/).
+Our goal was to showcase the features of Adobe XD by developing a smart device prototype and presenting it at **Adobe MAX 2018**. It was also showcased at [UX Playground in WeWork, London](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/) and [Digital Age Tech Summit, Istanbul](https://digitalagesummit.com/en/schedule/the-smartest-kid-on-the-block-designing-and-prototyping-smart-device-experiences/).
 
 The following are the key areas we focused on:
 
@@ -114,11 +114,9 @@ https://www.youtube.com/watch?v=NF3dL5OCfcE
 Our work was showcased at:
 
 - [UX Playground at WeWork London with 75 signups](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/)
-- [Adobe Max 2018 in Los Angeles](https://2018.max.adobe.com/sessions/max-online/#24803)
+- **Adobe MAX 2018 in Los Angeles**
 - [Digital Age Tech Summit in Istanbul](https://digitalagesummit.com/en/schedule/the-smartest-kid-on-the-block-designing-and-prototyping-smart-device-experiences/)
 
 ![Chakib explaining LittleBits to the audience at UX Playground at WeWork London.](/static/img/smart-device/ux-playground.png) <figcaption>Chakib explaining LittleBits to the audience at UX Playground (WeWork London).</figcaption>
-
-[![Recording of Chakib presenting at Adobe Max 2018](/static/img/smart-device/adobe-max-2018.png)](https://2018.max.adobe.com/sessions/max-online/#24803 "Adobe Max 2018") <figcaption>Recording of Chakib presenting at Adobe Max 2018 in Los Angeles.</figcaption>
 
 ![Chakib presenting at Digital Age Tech Summit in Istanbul.](/static/img/smart-device/digital-age-tech-summit.png) <figcaption>Chakib presenting at Digital Age Tech Summit in Istanbul. Photo by [Digital Age Tech Summit](https://digitalagesummit.com/en/galeri/) </figcaption>
