@@ -12,9 +12,13 @@ tags:
   - Research
 ---
 
-### Personal note
+![Sonic Contender slide deck](/static/img/sound/sound-deck.png)
+
+### Personal thoughts
 
 "Sound" was a very fascinating topic, where I learnt about many industries/disciplines e.g. retail, marketing, game design etc. utilising this element to create user experiences that we subconsciously process. It made me consider how our everyday interaction with "things" can be affected by the environment it was used in e.g. physical vs digital. This project also affected my career interest to be more strategy and content-first focused. As a special note, I also had the opportunity to attend my very first business trip with my colleague.
+
+<hr>
 
 ### Overview
 

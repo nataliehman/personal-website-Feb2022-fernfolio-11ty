@@ -13,9 +13,13 @@ tags:
   
 ---
 
-### Personal note
+![Three smart device prototypes developed for Adobe MAX 2018](/static/img/smart-device/adobemax-smart-prototypes.png)
+
+### Personal thoughts
 
 This was my first design project after finishing the [UX Playground course](https://www.meetup.com/ux-playground-the-user-experience-meetup/events/241328389/). I mainly focused on developing a smart device prototype, which utilised my knowledge and experience with technology. Within a few months, I learned to use [ProtoPie](https://www.ProtoPie.io/) and [LittleBits](https://sphero.com/collections/all/family_LittleBits) to create complex interactive prototypes without coding. It was a fun learning experience and useful to find out what prototyping tools are available for designing smart device experiences without any code. I also had the opportunity to explore animation and create interactions for the prototypes.
+
+<hr>
 
 ### Overview
 
