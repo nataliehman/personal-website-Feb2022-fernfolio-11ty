@@ -15,7 +15,7 @@ tags:
 
 ![New design of the UX Playground website](/static/img/uxpg-website/uxplayground-website.png)
 
-### Personal thoughts
+### Key learnings
 
 Working with a content strategy was the most valuable learning I had with this project. Starting the design process with words alone was a very effective approach to communicating ideas and concepts quickly. We were able to clearly define the goals early and had the flexibility to refine and remove anything irrelevant. Using real content also provided better context and storytelling, which reduced the development time of the website and therefore a faster launch of the new website redesign.
 
