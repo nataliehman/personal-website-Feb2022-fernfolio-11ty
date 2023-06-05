@@ -35,18 +35,19 @@ Our goal was to create a new website design using UXPG's new branding guidelines
 
 **Key stats**
 
-Since the launch of the new design, within 6 months the website had:
+Since the launch of the new design, in 6 months the website had:
 
-- Increased visitor traffic by 91%.
-- Increased website sessions by 158%.
-- Increased pageviews by 219%.
+- Increased visitor traffic by 151%.
+- Increased website sessions by 227%.
+- Increased pageviews by 294%.
 
-In 2021, with our community events done remotely we also utilised other channels apart from Meetup.com to promote events e.g. LinkedIn. Data showed that:
+In 2021, with our community events done remotely we also utilised other channels apart from Meetup.com to promote events. Data showed that:
 
-- Other website and social media referrals increased by 23%.
-- Direct traffic increased by 10%.
+- Other website referrals increased by 15%.
+- Social media referrals increased by 12% (LinkedIn, Facebook, Twitter).
+- Direct traffic increased by 43%.
 
-Overall, this suggests that by promoting the website across multiple channels e.g. LinkedIn, Meetup, Twitter etc. helps to raise awareness of UX Playground's content and design community.
+Overall, this suggests that by promoting the website across multiple channels helps to raise awareness of UX Playground's content and design community.
 
 ### Team
 
