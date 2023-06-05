@@ -52,6 +52,10 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
+  // Get current year
+  // https://11ty.rocks/eleventyjs/dates/
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
   // Minify CSS
   eleventyConfig.addFilter("cssmin", function(code) {
     return new CleanCSS({}).minify(code).styles;
