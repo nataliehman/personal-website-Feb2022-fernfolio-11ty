@@ -25,7 +25,7 @@ Working with a content strategy was the most valuable learning I had with this p
 
 UX Playground is a design community for professionals, experts and industry partners to collaboratively learn about User Experience Design. The community is about connecting people and knowledge sharing through events, courses, workshops and client projects.
 
-### Redesigning the website
+### Website redesign
 
 Our goal was to create a new website design using UXPG's new branding guidelines and with the following requirements:
 
@@ -54,7 +54,7 @@ Overall, this suggests that by promoting the website across multiple channels he
 Natalie H. Man, UX Designer, Freelance
 Chakib Labidi, Senior UX Designer and UX Playground founder
 
-### Creating the content structure
+### Content before aesthetics
 
 Using the [Priority Guide](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/) framework, we identified the goals for each page of the website. As a team, we would review and refine the structure according to the defined goals.
 
@@ -70,7 +70,7 @@ Whilst my team works on the content, I focused on creating low fidelity prototyp
 
 ![Wireframe variations for the Project UX landing page](/static/img/uxpg-website/uxpg-website-wireframe.png) <figcaption>Wireframe variations for the Project UX landing page. The same content was used but positioned differently for each layout.</figcaption>
 
-### Creating user flows
+### Mapping the user experience
 
 One of the requirements was to enable people to register for Project UX. To understand how the process may work, I have created the following user flows:
 
@@ -78,7 +78,7 @@ One of the requirements was to enable people to register for Project UX. To unde
 - Members paying for Project UX
 - Welcome email campaign after joining
 
-They were useful in highlighting any considerations we may have missed e.g. what happens after a user registers, additional pages etc. For website development, it was used to determine what plugins/tools was required and for planning the processes.
+They were useful in highlighting any considerations we may have missed e.g. what happens after a user registers, additional pages etc. For website development, it was used to determine what plugins/tools was required and for prioritising my tasks.
 
 ![High level flow to show how we can create the registration process on the website](/static/img/uxpg-website/userflow-registration.png) <figcaption>High level flow to show how we can create the registration process on the website.</figcaption>
 
@@ -86,7 +86,7 @@ They were useful in highlighting any considerations we may have missed e.g. what
 
 ![This flow shows the process of adding a new contact into Mailchimp when someone fills in a form](/static/img/uxpg-website/userflow-welcome-email.png) <figcaption>This flow shows the process of adding a new contact into Mailchimp when someone fills in a form.</figcaption>
 
-### Developing the website
+### Website development
 
 For the website, the following were implemented:
 
@@ -107,7 +107,7 @@ My previous experience in web design and front-end development made this process
 
 ![A preview of the welcome email in Mailchimp](/static/img/uxpg-website/mailchimp-campaign-preview.png) <figcaption>A preview of the welcome email in Mailchimp.</figcaption>
 
-### Website relaunch with the new design
+### Redesigned for a better user experience
 
 After implementing the website functionalities and finalising the content, the pages were created based on the new brand guidelines. [View the website here](https://www.uxplayground.co.uk/).
 
