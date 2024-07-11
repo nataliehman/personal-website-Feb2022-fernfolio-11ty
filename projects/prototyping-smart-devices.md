@@ -10,7 +10,7 @@ tags:
   - Prototyping
   - Research
   - Testing
-  
+order: 3
 ---
 
 ![Three smart device prototypes developed for Adobe MAX 2018](/static/img/smart-device/adobemax-smart-prototypes.png)

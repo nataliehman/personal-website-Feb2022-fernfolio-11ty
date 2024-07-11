@@ -1,6 +1,15 @@
+{# How to sort posts by title 
+  https://github.com/11ty/eleventy/issues/898#issuecomment-897071947
+  After the <div class="project-grid"> line, within {% for post in projectlist | ...) %}
+  The original was {% for post in projectlist | reverse %}
+  But I defined the 'order' parameter in the frontmatter of all project markdown files and now
+  the projects will be sorted based on the order number I set starting from 1 being the first
+  item to appear on the homepage
+#}
+
 <section>
   <div class="project-grid">
-    {% for post in projectlist | reverse %}
+    {% for post in projectlist | sort(false, false, 'data.order') %}
       <div class="project-card" {% if post.url == url %} data-current="current item"{% endif %}>
       {% if post.data.cover %}
         <div class="cover-img-container">

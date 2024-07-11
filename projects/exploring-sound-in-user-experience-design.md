@@ -10,6 +10,7 @@ tags:
   - Diary study
   - Mind mapping
   - Research
+order: 4
 ---
 
 ![Sonic Contender slide deck](/static/img/sound/sound-deck.png)

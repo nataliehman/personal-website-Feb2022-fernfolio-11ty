@@ -11,6 +11,7 @@ tags:
   - Testing
   - User flows
   - Wireframing
+order: 2
 ---
 
 ![New design of the UX Playground website](/static/img/uxpg-website/uxplayground-website.png)
