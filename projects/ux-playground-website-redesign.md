@@ -1,8 +1,8 @@
 ---
-title: Redesigning UX Playground's website
+title: Rebranding UX Playground's website
 metaDescription: A website redesign project for UX Playground's design community. This was part of the marketing strategy for promoting Project UX.
-summary: UX PLAYGROUND
-client: UXPG
+summary:
+client: UX Playground
 cover: uxpg-website.png
 tags:
   - Content strategy
@@ -11,22 +11,21 @@ tags:
   - Testing
   - User flows
   - Wireframing
+  - case study
 order: 2
 ---
 
 ![New design of the UX Playground website](/static/img/uxpg-website/uxplayground-website.png)
 
-### Key learnings
+## Key learnings
 
 Working with a content strategy was the most valuable learning I had with this project. Starting the design process with words alone was a very effective approach to communicating ideas and concepts quickly. We were able to clearly define the goals early and had the flexibility to refine and remove anything irrelevant. Using real content also provided better context and storytelling, which reduced the development time of the website and therefore a faster launch of the new website redesign.
 
-<hr>
-
-### Overview
+## Overview
 
 UX Playground is a design community for professionals, experts and industry partners to collaboratively learn about User Experience Design. The community is about connecting people and knowledge sharing through events, courses, workshops and client projects.
 
-### Website redesign
+## Website redesign
 
 Our goal was to create a new website design using UXPG's new branding guidelines and with the following requirements:
 
@@ -34,7 +33,7 @@ Our goal was to create a new website design using UXPG's new branding guidelines
 - A registration process for people to join Project UX.
 - Allow visitors to contact UX Playground for any queries they have.
 
-**Key stats**
+## Key stats
 
 Since the launch of the new design, in 6 months the website had:
 
@@ -50,12 +49,12 @@ In 2021, with our community events done remotely we also utilised other channels
 
 Overall, this suggests that by promoting the website across multiple channels helps to raise awareness of UX Playground's content and design community.
 
-### Team
+## Team
 
 Natalie H. Man, UX Designer, Freelance
 Chakib Labidi, Senior UX Designer and UX Playground founder
 
-### Content before aesthetics
+## Content before aesthetics
 
 Using the [Priority Guide](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/) framework, we identified the goals for each page of the website. As a team, we would review and refine the structure according to the defined goals.
 
@@ -65,13 +64,13 @@ Personally, this process made content creation more efficient and enjoyable beca
 
 ![Details added under each topic of the priority guide](/static/img/uxpg-website/xd-content-details.png) <figcaption>Details added under each content topic of the priority guide. We also leave feedback and suggestions for the person working on the content. This is an iterative process so content can be added/removed depending on relevance.</figcaption>
 
-### Wireframing with content
+## Wireframing with content
 
 Whilst my team works on the content, I focused on creating low fidelity prototypes of the new pages using [Adobe XD’s wireframe kit](https://www.adobe.com/uk/products/xd/features/ui-kits.html). This process was unexpectedly easier when using the content we created. With clearly defined goals and context, multiple variations of a page design can be created quickly. The reviewing process was also efficient and allowed us to start the development process sooner once the final design was selected.
 
 ![Wireframe variations for the Project UX landing page](/static/img/uxpg-website/uxpg-website-wireframe.png) <figcaption>Wireframe variations for the Project UX landing page. The same content was used but positioned differently for each layout.</figcaption>
 
-### Mapping the user experience
+## Mapping the user experience
 
 One of the requirements was to enable people to register for Project UX. To understand how the process may work, I have created the following user flows:
 
@@ -87,7 +86,7 @@ They were useful in highlighting any considerations we may have missed e.g. what
 
 ![This flow shows the process of adding a new contact into Mailchimp when someone fills in a form](/static/img/uxpg-website/userflow-welcome-email.png) <figcaption>This flow shows the process of adding a new contact into Mailchimp when someone fills in a form.</figcaption>
 
-### Website development
+## Website development
 
 For the website, the following were implemented:
 
@@ -108,7 +107,7 @@ My previous experience in web design and front-end development made this process
 
 ![A preview of the welcome email in Mailchimp](/static/img/uxpg-website/mailchimp-campaign-preview.png) <figcaption>A preview of the welcome email in Mailchimp.</figcaption>
 
-### Redesigned for a better user experience
+## Redesigned for a better user experience
 
 After implementing the website functionalities and finalising the content, the pages were created based on the new brand guidelines. [View the website here](https://www.uxplayground.co.uk/).
 

@@ -44,10 +44,12 @@
 }
 
 .tag {
-  margin: 2px 10px 0 0;
+  border-radius: var(--border-radius-sm);
+  margin: 10px 10px 0 0;
+  padding: 4px 8px;
   color: var(--color-primary);
   white-space: nowrap;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
 }
 

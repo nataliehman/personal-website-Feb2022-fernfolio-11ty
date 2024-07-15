@@ -1,7 +1,7 @@
 ---
-title: Exploring sound in user experience design
+title: Exploring sound in user experience design for Brand Week Istanbul
 metaDescription: A research project about sound and its relevance in user experience design. The findings were presented at Brand Week Istanbul, Berlin Design Week, Istanbul Bilgi University and UX Playground.
-summary: KAPITAL MEDIA UK
+summary: 
 client: Kapital Media UK
 cover: sound-cover.png
 tags:
@@ -10,22 +10,21 @@ tags:
   - Diary study
   - Mind mapping
   - Research
+  - case study
 order: 4
 ---
 
 ![Sonic Contender slide deck](/static/img/sound/sound-deck.png)
 
-### Key learnings
+## Key learnings
 
 "Sound" was a very fascinating topic, where I learnt about many industries/disciplines e.g. retail, marketing, game design etc. utilising this element to create user experiences that we subconsciously process. It made me consider how our everyday interaction with "things" can be affected by the environment it was used in e.g. physical vs digital. This project also affected my career interest to be more strategy and content-first focused. As a special note, I also had the opportunity to attend my very first business trip with my colleague.
 
-<hr>
-
-### Overview
+## Overview
 
 When designing user experiences, it is common for designers to focus on visuals when creating interactions. As technology continues to grow rapidly, more sophisticated products are entering the market and creating new experiences for consumers. These products are allowing us to use our 5 human senses to interact with its multimodal interfaces (e.g. voice, touch, gesture etc.), therefore creating a multisensory experience.
 
-### Sharing our research with the community
+## Sharing our research with the community
 
 Our goal was to create a presentation about sound in user experience design within 3 months. This research project was commissioned by [Kapital Media UK](http://kapitalmedia.co.uk/) for [Brand Week Istanbul](https://www.brandweekistanbul.com/en/). It was later presented at UX Playground ([Skills Matter in London](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/264396344/) and [webinar](https://www.meetup.com/ux-playground-the-user-experience-meetup/events/273250042/)), [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/academic/faculty-of-architecture/industrial-design/) (industrial design department) and [Berlin Design Week](https://vimeo.com/636088406/3f7b46a253).
 
@@ -35,13 +34,13 @@ The following are key areas we focused on for our research:
 - How does it impact our behaviour and perceptions as consumers
 - How do brands use sound to enhance their customers’ experience
 
-### Team
+## Team
 
 Natalie H. Man, UX Designer, Freelance
 Chakib Labidi, Senior UX Designer and UX Playground founder
 Jasmina Jambresic, UX Designer, News UK
 
-### Sound is everywhere
+## Sound is everywhere
 
 For this exploratory project, sound is an overwhelmingly complex topic. Before we started our research, I created a mind map in Miro to capture our questions and thoughts. This helped us to consider the following:
 
@@ -61,7 +60,7 @@ As an analysis activity, I found it very interesting to distinguish sounds that 
 
 ![Jasmina's diary](/static/img/sound/jasmina-diary-study.png) <figcaption>Jasmina describes that she hears more "natural" sounds in Sarajevo compared to London, which she found to be "too much and unnecessary".</figcaption>
 
-### Creating the presentation
+## Creating the presentation
 
 We created a high level content structure based on our research with the following considerations:
 
@@ -87,7 +86,7 @@ Once we had the final content structure, we created a separate Google Docs file 
 
 ![Content in Keynote presentation](/static/img/sound/keynote-slide.png) <figcaption>Keynote presentation using the content and assets.</figcaption>
 
-### Presenting to the public
+## Presenting to the public
 
 The research was presented at:
 

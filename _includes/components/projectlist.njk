@@ -8,7 +8,15 @@
 #}
 
 <section>
-  <div class="project-grid">
+    <!-- 
+      added if statement for work sample grid class to change to one column layout otherwise use default
+      grid layout
+    -->
+    {% if projectlist === collections['work sample'] %}
+      <div class="project-grid-samples">
+    {% else %}
+      <div class="project-grid">
+    {% endif %}
     {% for post in projectlist | sort(false, false, 'data.order') %}
       <div class="project-card" {% if post.url == url %} data-current="current item"{% endif %}>
       {% if post.data.cover %}
@@ -34,6 +42,7 @@
             {{ post.data.summary }}            
           </p>
         {% endif %}
+        
         <!--
         {% if post.data.client %}
           <p class="project-card__client">
@@ -42,12 +51,16 @@
         {% endif %}
         -->
         
+        <!-- added condition to hide tags with "case study" and "work sample" in files -->
+        <!-- disable tags to prevent them to be clickable urls -->
         {% if post.data.tags %}
+          <p class="tag-list-title">Covering:</p>
           <p class="tag-list">
             {% for tag in post.data.tags %}
-              {%- if tag != "project" -%}
-                {% set tagUrl %}/project-tags/{{ tag }}/{% endset %}
-              <a class="project-card__tag tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+              {%- if tag != "project" and tag != "case study" and tag != "work sample" -%}
+                <!-- {% set tagUrl %}/project-tags/{{ tag }}/{% endset %}
+              <a class="project-card__tag tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a> -->
+              <span class="project-card__tag tag">{{ tag }}</span>
               {%- endif -%}
             {% endfor %}
           </p>

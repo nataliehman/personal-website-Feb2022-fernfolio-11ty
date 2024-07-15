@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-section: projects
+section: work samples
 ---
 <div class="page-container">
   <h1>{{title}}</h1>
@@ -10,6 +10,6 @@ section: projects
   <hr>
   {{ layoutContent | safe }}
 
-  {% set projectlist = collections['case study'] %}
+  {% set projectlist = collections['work sample'] %}
   {% include "components/projectlist.njk" %}
 </div>

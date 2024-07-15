@@ -12,7 +12,7 @@ section: home
         <p class="hero__subtitle">{{ home.subtitle }}</p>
       {% endif %}
     </div>
-<!--  <div class="hero__col">
+    <!--  <div class="hero__col">
       <img
         class="hero__image shadow"
         src="{% if home.image %}{{ home.image }}{% else %}https://source.unsplash.com/random/600x600{% endif %}"
@@ -20,21 +20,34 @@ section: home
         width="1000px"
         height="1000px"
         loading="lazy">
-    </div>
--->
+      </div>
+    -->
   </div>
 
   <hr>
-  <h2>Projects</h2>
-  {% set projectlist = collections.project %}
+  <!-- 
+    originally was {% set projectlist = collections.project %}
+    to display all files created under the Project folder. 
+    Now used tags for the collection to only display projects
+    with specified tag e.g. collections['case study']
+  -->
+  <h2>Case studies</h2>
+  <p>Detailed projects showcasing my process at various design phases.</p>
+  {% set projectlist = collections['case study'] %}
   {% include "components/projectlist.njk" %}
 
-<!--
   <hr>
-  <h2>Articles</h2>
-  {% set postslist = collections.post %}
-  {% set show_postslist_tags = false %}
-  {% set limit = 3 %}
-  {% include "components/postslist.njk" %}
--->
+  <h2>Work samples</h2>
+  <p>A selection of other design work to provide further insights into my creativity and problem-solving skills.</p>
+  {% set projectlist = collections['work sample'] %}
+  {% include "components/projectlist.njk" %}
+
+  <!--
+    <hr>
+    <h2>Articles</h2>
+    {% set postslist = collections.post %}
+    {% set show_postslist_tags = false %}
+    {% set limit = 3 %}
+    {% include "components/postslist.njk" %}
+  -->
 </div>
