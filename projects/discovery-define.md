@@ -5,11 +5,14 @@ summary:
 client: 
 cover: discovery-define-cover.png
 tags:
+  - Competitor analysis
   - Content strategy
   - Data analysis
   - Generative AI
   - Journey mapping
+  - Market research
   - Personas
+  - Thematic analysis
   - UX metrics analysis
   - work sample
 order: 1
@@ -30,7 +33,7 @@ For the development of a design course offered by UX Playground, I was part of a
 
 When UX Playground started running online events via Zoom, I analysed the event data collected to learn about the demographics of the community and their engagement levels during the sessions. I compiled my analysis of metrics like attendance numbers, location of attendees, and chat participation into a reporting deck. This allowed the team to review performance for each event and compare metrics between different topic areas covered. The analysis provided insights to optimise future community events.
 
-![Pivot table in Google Sheet](/static/img/work-samples/event-data-pivot-table.png) <figcaption>Used pivot table to analyse and extract insights from our community events on Google Sheets.</figcaption>
+![Pivot table in Google Sheet](/static/img/work-samples/event-data-pivot-table.png) <figcaption>Used pivot table to analyse and extract insights from UX Playground community events on Google Sheets.</figcaption>
 
 ![Data charts in Google Sheet](/static/img/work-samples/event-data-analysis.png) <figcaption>Created charts and tables to visually represent the data.</figcaption>
 
@@ -38,7 +41,7 @@ When UX Playground started running online events via Zoom, I analysed the event 
 
 ## Data analysis: identifying success UX metrics for a design course
 
-I did small activity to learn about how to identify potential UX metrics for projects. One framework I discovered was a combination of [HEART and PULSE integrated into a GSM matrix](https://measuringu.com/heart-framework/). I applied this onto UX Playground's design course to identify potential success metrics based on feedback collected from the participant survey. Generally, businesses collect overwhelming amounts of data and I find the simple framework to be a useful for strategic planning.
+I did a small activity to learn about how to identify potential UX metrics for projects. One framework I discovered was a combination of [HEART and PULSE integrated into a GSM matrix](https://measuringu.com/heart-framework/). I applied this onto UX Playground's design course to identify potential success metrics based on feedback collected from the participant survey. Generally, businesses collect overwhelming amounts of data and I find the simple framework to be a useful for strategic planning.
 
 ![UX metrics for a design course was a GSM matrix with HEART and PULSE](/static/img/work-samples/ux-metrics.png) <figcaption>Based on the participant survey, some metrics idenfied include: partipants enjoying the project based on testimonials and high satisfaction ratings.</figcaption>
 

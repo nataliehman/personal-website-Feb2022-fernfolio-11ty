@@ -3,19 +3,19 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 15px 35px 0;
+  padding: 25px 35px;
   border-top: 3px solid var(--color-secondary);
 }
 
 @media (min-width: 1024px) {
   .site-header {
-    padding: 25px 40px 0;
+    padding: 25px 40px;
   }
 }
 
-@media (min-width: 1220px) {
+@media (min-width: 1300px) {
   .site-header {
-    padding: 25px 130px 0;
+    padding: 25px 130px;
   }
 }
 

@@ -2,14 +2,14 @@
   max-width: var(--site-width);
   margin-right: auto;
   margin-left: auto;
-  padding: 1rem;
+  padding: 0 25px 25px;
 }
 
 .page-container img {
   display: flex;
   width: 100%;
   /*max-width: 700px;*/
-  margin: 5rem 0 auto;
+  margin: 3rem 0 auto;
   border: 1px solid var(--border-img-color);
 }
 
