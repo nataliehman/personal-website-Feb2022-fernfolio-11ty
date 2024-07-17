@@ -3,7 +3,7 @@ title: Designing a framework for prototyping smart device experiences with Adobe
 metaDescription: A project on prototyping smart devices using ProtoPie and LittleBits. This was showcased in Adobe MAX 2018, UX Playground and Digital Age Summit.
 summary:
 client: Adobe
-cover: smart-device-cover.png
+cover: smart-device-cover.webp
 tags:
   - Animation
   - Data analysis
@@ -14,7 +14,7 @@ tags:
 order: 3
 ---
 
-![Three smart device prototypes developed for Adobe MAX 2018](/static/img/smart-device/adobemax-smart-prototypes.png)
+![Three smart device prototypes developed for Adobe MAX 2018](/static/img/smart-device/adobemax-smart-prototypes.webp)
 
 ## Key learnings
 
@@ -47,21 +47,21 @@ Our research covered topics such as UI kits, interfaces, and prototyping. My tas
 - What is the difference between prototyping smart device interfaces vs non-smart device interfaces?
 - What are the challenges?
 
-![Non-smart device UI research](/static/img/smart-device/non-smart-ui-research.png) <figcaption>Research for prototyping with non-smart device interfaces.</figcaption>
+![Non-smart device UI research](/static/img/smart-device/non-smart-ui-research.webp) <figcaption>Research for prototyping with non-smart device interfaces.</figcaption>
 
-![Smart device UI research](/static/img/smart-device/smart-ui-research.png) <figcaption>Research for prototyping with smart device interfaces.</figcaption>
+![Smart device UI research](/static/img/smart-device/smart-ui-research.webp) <figcaption>Research for prototyping with smart device interfaces.</figcaption>
 
 I also researched what prototyping tools Adobe XD can integrate with. However, from my experience with the UX Playground course, we tested [ProtoPie](https://www.ProtoPie.io/) as the tool for prototyping animation and interaction (this was before Adobe implemented the Auto-animate feature into XD).
 
 We contacted ProtoPie who suggested we use [Arduino](https://blog.ProtoPie.io/arduino-prototyping-with-ProtoPie-7932ececfec5) and [LittleBits](https://www.youtube.com/watch?v=Iv25TVsOHdU) for smart device prototyping. I knew Arduino required programming but LittleBits needed research as I was not familiar with the product.
 
-![My demo on a light switch using LittleBits' tutorial](/static/img/smart-device/LittleBits-experiment.png) <figcaption>My demo on a light switch using LittleBits' tutorial.</figcaption>
+![My demo on a light switch using LittleBits' tutorial](/static/img/smart-device/LittleBits-experiment.webp) <figcaption>My demo on a light switch using LittleBits' tutorial.</figcaption>
 
 ## Understanding interactions between human, hardware and software
 
 For ideation, we explored how we interact with physical interfaces e.g. light switches, and how they are designed in existing smart devices. This helped us to plan our process and divide the work within the team.
 
-![Ideation session](/static/img/smart-device/our-process.png) <figcaption>Our workflow process to create the smart device prototypes.</figcaption>
+![Ideation session](/static/img/smart-device/our-process.webp) <figcaption>Our workflow process to create the smart device prototypes.</figcaption>
 
 Throughout this phase, I was experimenting with LittleBits and ProtoPie. It helped us to see what types of simple interactions we can prototype for the project. The process was mostly trial and error due to limited resources for integrating LittleBits with ProtoPie. However, it was an interesting challenge as I built and tested the prototypes in small stages while considering factors such as logical steps, conditions for triggering actions, and expected outputs based on inputs.
 
@@ -86,13 +86,13 @@ We also researched animations and interactions created by other designers for in
 
 Before prototyping, Stephanie created the designs in Adobe XD. I then imported them into ProtoPie and experimented with different solutions. It was an iterative process until we found a solution that matches the vision we had for each of the prototypes.
 
-![A test prototype for controlling light](/static/img/smart-device/light-switch-prototype.png) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
+![A test prototype for controlling light](/static/img/smart-device/light-switch-prototype.webp) <figcaption>A test prototype for creating sliders and switches to control light.</figcaption>
 
-![A dashboard prototype for iPad](/static/img/smart-device/dashboard-ipad-prototype.png) <figcaption>Creating the dashboard prototype for iPad.</figcaption>
+![A dashboard prototype for iPad](/static/img/smart-device/dashboard-ipad-prototype.webp) <figcaption>Creating the dashboard prototype for iPad.</figcaption>
 
-![A music player prototype for Pixel 2](/static/img/smart-device/musicplayer-pixel2-prototype.png) <figcaption>Creating the music player prototype for Pixel 2.</figcaption>
+![A music player prototype for Pixel 2](/static/img/smart-device/musicplayer-pixel2-prototype.webp) <figcaption>Creating the music player prototype for Pixel 2.</figcaption>
 
-![A ac prototype for iPhone](/static/img/smart-device/ac-iphone-prototype.png) <figcaption>Creating the air conditioning controller prototype for iPhone.</figcaption>
+![A ac prototype for iPhone](/static/img/smart-device/ac-iphone-prototype.webp) <figcaption>Creating the air conditioning controller prototype for iPhone.</figcaption>
 
 ## Integrating LittleBits with the prototypes
 
@@ -120,6 +120,6 @@ Our work was showcased at:
 - **Adobe MAX 2018 in Los Angeles**
 - [Digital Age Tech Summit in Istanbul](https://digitalagesummit.com/en/schedule/the-smartest-kid-on-the-block-designing-and-prototyping-smart-device-experiences/)
 
-![Chakib explaining LittleBits to the audience at UX Playground at WeWork London.](/static/img/smart-device/ux-playground.png) <figcaption>Chakib explaining LittleBits to the audience at UX Playground (WeWork London).</figcaption>
+![Chakib explaining LittleBits to the audience at UX Playground at WeWork London.](/static/img/smart-device/ux-playground.webp) <figcaption>Chakib explaining LittleBits to the audience at UX Playground (WeWork London).</figcaption>
 
-![Chakib presenting at Digital Age Tech Summit in Istanbul.](/static/img/smart-device/digital-age-tech-summit.png) <figcaption>Chakib presenting at Digital Age Tech Summit in Istanbul. Photo by [Digital Age Tech Summit](https://digitalagesummit.com/en/galeri/) </figcaption>
+![Chakib presenting at Digital Age Tech Summit in Istanbul.](/static/img/smart-device/digital-age-tech-summit.webp) <figcaption>Chakib presenting at Digital Age Tech Summit in Istanbul. Photo by [Digital Age Tech Summit](https://digitalagesummit.com/en/galeri/) </figcaption>
