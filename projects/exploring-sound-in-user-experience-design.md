@@ -1,5 +1,5 @@
 ---
-title: Exploring sound in user experience design for Brand Week Istanbul
+title: Researching sound in user experience design for Brand Week Istanbul
 metaDescription: A research project about sound and its relevance in user experience design. The findings were presented at Brand Week Istanbul, Berlin Design Week, Istanbul Bilgi University and UX Playground.
 summary: 
 client: Kapital Media UK

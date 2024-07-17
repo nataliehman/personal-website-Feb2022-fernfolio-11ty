@@ -1,5 +1,5 @@
 ---
-title: Prototyping smart device experiences for Adobe MAX LA 2018
+title: Designing a framework for prototyping smart device experiences with Adobe XD
 metaDescription: A project on prototyping smart devices using ProtoPie and LittleBits. This was showcased in Adobe MAX 2018, UX Playground and Digital Age Summit.
 summary:
 client: Adobe
