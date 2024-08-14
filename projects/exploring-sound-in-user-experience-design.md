@@ -36,9 +36,9 @@ The following are key areas we focused on for our research:
 
 ## Team
 
-Natalie H. Man, UX Designer, Freelance
-Chakib Labidi, Senior UX Designer and UX Playground founder
-Jasmina Jambresic, UX Designer, News UK
+- Natalie H. Man, UX Designer, Freelance
+- Chakib Labidi, Senior UX Designer and UX Playground founder
+- Jasmina Jambresic, UX Designer, News UK
 
 ## Sound is everywhere
 

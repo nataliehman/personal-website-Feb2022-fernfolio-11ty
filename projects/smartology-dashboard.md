@@ -39,8 +39,8 @@ The project was driven by changes in the advertising industry moving towards aut
 
 ## Team
 
-Natalie H. Man, UX Designer, Smartology
-Robert Varney, Senior UX Designer, Freelance (support for high fidelity prototyping and testing)
+- Natalie H. Man, UX Designer, Smartology
+- Robert Varney, Senior UX Designer, Freelance (support for high fidelity prototyping and testing)
 
 ## Gathering insights through collaborative voting
 

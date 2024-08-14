@@ -36,9 +36,9 @@ The following are the key areas we focused on:
 
 ## Team
 
-Natalie H. Man, Front-end Developer, Smartology
-Chakib Labidi, Senior UX Designer and UX Playground founder
-Stephanie Howard, Digital Designer, Nelson Bostock
+- Natalie H. Man, Front-end Developer, Smartology
+- Chakib Labidi, Senior UX Designer and UX Playground founder
+- Stephanie Howard, Digital Designer, Nelson Bostock
 
 ## Resources and tools for developing smart device experiences
 

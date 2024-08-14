@@ -51,8 +51,8 @@ Overall, this suggests that by promoting the website across multiple channels he
 
 ## Team
 
-Natalie H. Man, UX Designer, Freelance
-Chakib Labidi, Senior UX Designer and UX Playground founder
+- Natalie H. Man, UX Designer, Freelance
+- Chakib Labidi, Senior UX Designer and UX Playground founder
 
 ## Content before aesthetics
 
