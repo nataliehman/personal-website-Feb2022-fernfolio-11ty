@@ -51,13 +51,13 @@
         {% endif %}
         -->
         
-        <!-- added condition to hide tags with "case study" and "work sample" in files -->
+        <!-- added condition to hide tags with "project work" and "work sample" in files -->
         <!-- disable tags to prevent them to be clickable urls -->
         {% if post.data.tags %}
           <p class="tag-list-title">Covering:</p>
           <p class="tag-list">
             {% for tag in post.data.tags %}
-              {%- if tag != "project" and tag != "case study" and tag != "work sample" -%}
+              {%- if tag != "project" and tag != "project work" and tag != "work sample" -%}
                 <!-- {% set tagUrl %}/project-tags/{{ tag }}/{% endset %}
               <a class="project-card__tag tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a> -->
               <span class="project-card__tag tag">{{ tag }}</span>

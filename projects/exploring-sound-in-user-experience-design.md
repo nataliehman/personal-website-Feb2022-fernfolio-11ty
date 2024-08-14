@@ -10,7 +10,7 @@ tags:
   - Diary study
   - Mind mapping
   - Research
-  - case study
+  - project work
 order: 4
 ---
 

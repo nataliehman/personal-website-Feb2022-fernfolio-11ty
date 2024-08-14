@@ -1,6 +1,6 @@
 ---
 title: Discovery and define
-metaDescription: 
+metaDescription: A page covering my work on research, analysis and planning.
 summary: 
 client: 
 cover: discovery-define-cover.webp

@@ -11,8 +11,8 @@ tags:
   - Testing
   - User flows
   - Wireframing
-  - case study
-order: 2
+  - project work
+order: 3
 ---
 
 ![New design of the UX Playground website](/static/img/uxpg-website/uxplayground-website.webp)

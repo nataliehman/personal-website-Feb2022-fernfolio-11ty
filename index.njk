@@ -26,11 +26,11 @@ section: home
     originally was {% set projectlist = collections.project %}
     to display all files created under the Project folder. 
     Now used tags for the collection to only display projects
-    with specified tag e.g. collections['case study']
+    with specified tag e.g. collections['project work']
   -->
-  <h2>Case studies</h2>
-  <p>Detailed projects showcasing my process at various design phases.</p>
-  {% set projectlist = collections['case study'] %}
+  <h2>Projects</h2>
+  <p>In-depth showcase of my design process through various phases to final solutions.</p>
+  {% set projectlist = collections['project work'] %}
   {% include "components/projectlist.njk" %}
 
   <hr>

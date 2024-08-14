@@ -1,14 +1,12 @@
 ---
-
-[comment]: # (Changed title, permalink and key to 'Case studies' from 'Projects')
 layout: layouts/projects.njk
-title: Case studies
-subtitle: "Detailed projects showcasing my process at various design phases."
+title: Projects
+subtitle: "In-depth showcase of my design process through various phases to final solutions."
 metaDescription: ""
 date: 2021-01-01
-permalink: /case-studies/index.html
+permalink: /projects/index.html
 emoji: 💻
 eleventyNavigation:
-  key: Case studies
+  key: Projects
   order: 1
 ---

@@ -10,8 +10,8 @@ tags:
   - Prototyping
   - Research
   - Testing
-  - case study
-order: 3
+  - project work
+order: 2
 ---
 
 ![Three smart device prototypes developed for Adobe MAX 2018](/static/img/smart-device/adobemax-smart-prototypes.webp)
