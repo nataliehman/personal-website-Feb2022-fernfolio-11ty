@@ -18,15 +18,6 @@ order: 1
 
 ![Smartology dashboards](/static/img/dashboard/dashboard-versions.webp)
 
-## Key learnings
-As the solo designer, this project taught me valuable lessons on how to effectively apply the UX process. It also emphasised the importance of adapting quickly to my team's needs over strictly following a linear design process.
-
-When the new dashboard design was launched, I noticed how the UX process improved team collaboration. For example, the engineering team proactively asked the team for feedback and did more user testing on features they were developing. 
-
-I feel that I would have more clarity if I knew how to question the 'whys' about the business objectives. For example, why was the dashboard missing key data for account managers to do their reporting? Why was sales and finance capturing certain data, which is not be stored on the current dashboard? 
-
-This project taught me to embrace flexibility and adapt to unpredictable changes whilst maintaining clarity on the project's direction.
-
 ## Overview
 
 The project was driven by changes in the advertising industry moving towards automated online (programmatic) advertising. There was also more focus on data-driven campaign optimisation, which meant the need to improve the company's internal workflows to adapt to these changes.
@@ -41,6 +32,18 @@ The project was driven by changes in the advertising industry moving towards aut
 
 - Natalie H. Man, UX Designer, Smartology
 - Robert Varney, Senior UX Designer, Freelance (support for high fidelity prototyping and testing)
+
+<div class='project-key-learnings'>
+
+## Key learnings
+As the solo designer, this project taught me valuable lessons on how to effectively apply the UX process. It also emphasised the importance of adapting quickly to my team's needs over strictly following a linear design process.
+
+When the new dashboard design was launched, I noticed how the UX process improved team collaboration. For example, the engineering team proactively asked the team for feedback and did more user testing on features they were developing. I feel that I would have more clarity if I knew how to question the 'whys' about the business objectives. For example, why was the dashboard missing key data for account managers to do their reporting? Why was sales and finance capturing certain data, which is not be stored on the current dashboard? 
+
+This project taught me to embrace flexibility and adapt to unpredictable changes whilst maintaining clarity on the project's direction.
+</div>
+
+# Process
 
 ## Gathering insights through collaborative voting
 

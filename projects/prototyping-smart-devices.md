@@ -16,15 +16,11 @@ order: 2
 
 ![Three smart device prototypes developed for Adobe MAX 2018](/static/img/smart-device/adobemax-smart-prototypes.webp)
 
-## Key learnings
-
-This was my first design project after finishing the [UX Playground course](https://www.meetup.com/ux-playground-the-user-experience-meetup/events/241328389/). I mainly focused on developing a smart device prototype, which utilised my knowledge and experience with technology. Within a few months, I learned to use [ProtoPie](https://www.ProtoPie.io/) and [LittleBits](https://sphero.com/collections/all/family_LittleBits) to create complex interactive prototypes without coding. It was a fun learning experience and useful to find out what prototyping tools are available for designing smart device experiences without any code. I also had the opportunity to explore animation and create interactions for the prototypes.
-
 ## Overview
 
 With more smart devices entering the market, managing our daily activities and acquiring information has become increasingly convenient. These smart capabilities have created an extra layer of complexity, which can be challenging for designers to develop strategies and solutions. Designers may need to explore areas such as electronics, to better understand how the interactions between humans, hardware and software can affect the overall user experience of a smart device.
 
-## Creating a smart device prototype
+## Objectives
 
 Our goal was to showcase the features of Adobe XD by developing a smart device prototype and presenting it at **Adobe MAX 2018**. It was also showcased at [UX Playground in WeWork, London](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/) and [Digital Age Tech Summit, Istanbul](https://digitalagesummit.com/en/schedule/the-smartest-kid-on-the-block-designing-and-prototyping-smart-device-experiences/).
 
@@ -39,6 +35,15 @@ The following are the key areas we focused on:
 - Natalie H. Man, Front-end Developer, Smartology
 - Chakib Labidi, Senior UX Designer and UX Playground founder
 - Stephanie Howard, Digital Designer, Nelson Bostock
+
+<div class='project-key-learnings'>
+
+## Key learnings
+
+This was my first design project after finishing the [UX Playground course](https://www.meetup.com/ux-playground-the-user-experience-meetup/events/241328389/). I mainly focused on developing a smart device prototype, which utilised my knowledge and experience with technology. Within a few months, I learned to use [ProtoPie](https://www.ProtoPie.io/) and [LittleBits](https://sphero.com/collections/all/family_LittleBits) to create complex interactive prototypes without coding. It was a fun learning experience and useful to find out what prototyping tools are available for designing smart device experiences without any code. I also had the opportunity to explore animation and create interactions for the prototypes.
+</div>
+
+# Process
 
 ## Resources and tools for developing smart device experiences
 

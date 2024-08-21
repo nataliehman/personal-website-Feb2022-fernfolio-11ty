@@ -17,15 +17,11 @@ order: 3
 
 ![New design of the UX Playground website](/static/img/uxpg-website/uxplayground-website.webp)
 
-## Key learnings
-
-Working with a content strategy was the most valuable learning I had with this project. Starting the design process with words alone was a very effective approach to communicating ideas and concepts quickly. We were able to clearly define the goals early and had the flexibility to refine and remove anything irrelevant. Using real content also provided better context and storytelling, which reduced the development time of the website and therefore a faster launch of the new website redesign.
-
 ## Overview
 
 UX Playground is a design community for professionals, experts and industry partners to collaboratively learn about User Experience Design. The community is about connecting people and knowledge sharing through events, courses, workshops and client projects.
 
-## Website redesign
+## Objectives
 
 Our goal was to create a new website design using UXPG's new branding guidelines and with the following requirements:
 
@@ -33,7 +29,7 @@ Our goal was to create a new website design using UXPG's new branding guidelines
 - A registration process for people to join Project UX.
 - Allow visitors to contact UX Playground for any queries they have.
 
-## Key stats
+## Outcomes and key stats
 
 Since the launch of the new design, in 6 months the website had:
 
@@ -53,6 +49,14 @@ Overall, this suggests that by promoting the website across multiple channels he
 
 - Natalie H. Man, UX Designer, Freelance
 - Chakib Labidi, Senior UX Designer and UX Playground founder
+
+<div class='project-key-learnings'>
+
+## Key learnings
+Working with a content strategy was the most valuable learning I had with this project. Starting the design process with words alone was a very effective approach to communicating ideas and concepts quickly. We were able to clearly define the goals early and had the flexibility to refine and remove anything irrelevant. Using real content also provided better context and storytelling, which reduced the development time of the website and therefore a faster launch of the new website redesign.
+</div>
+
+# Process
 
 ## Content before aesthetics
 
