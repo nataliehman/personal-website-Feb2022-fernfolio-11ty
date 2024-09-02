@@ -29,22 +29,6 @@ Our goal was to create a new website design using UXPG's new branding guidelines
 - A registration process for people to join Project UX.
 - Allow visitors to contact UX Playground for any queries they have.
 
-## Outcomes and key stats
-
-Since the launch of the new design, in 6 months the website had:
-
-- Increased visitor traffic by 151%.
-- Increased website sessions by 227%.
-- Increased pageviews by 294%.
-
-In 2021, with our community events done remotely we also utilised other channels apart from Meetup.com to promote events. Data showed that:
-
-- Other website referrals increased by 15%.
-- Social media referrals increased by 12% (LinkedIn, Facebook, Twitter).
-- Direct traffic increased by 43%.
-
-Overall, this suggests that by promoting the website across multiple channels helps to raise awareness of UX Playground's content and design community.
-
 ## Team
 
 - Natalie H. Man, UX Designer, Freelance
@@ -111,9 +95,29 @@ My previous experience in web design and front-end development made this process
 
 ![A preview of the welcome email in Mailchimp](/static/img/uxpg-website/mailchimp-campaign-preview.webp) <figcaption>A preview of the welcome email in Mailchimp.</figcaption>
 
+# Outcome
+
 ## Redesigned for a better user experience
 
 After implementing the website functionalities and finalising the content, the pages were created based on the new brand guidelines. [View the website here](https://www.uxplayground.co.uk/).
+
+## Key stats
+
+Since the launch of the new design, in 6 months the website had (Google Analytics data from Jan 2021 to Jun 2021):
+
+- Increased visitor traffic by 151%.
+- Increased website sessions by 227%.
+- Increased pageviews by 294%.
+
+In 2021, with our community events done remotely we also utilised other channels apart from Meetup.com to promote events. Data showed that:
+
+- Other website referrals increased by 15%.
+- Social media referrals increased by 12% (LinkedIn, Facebook, Twitter).
+- Direct traffic increased by 43%.
+
+Overall, this suggests that by promoting the website across multiple channels helps to raise awareness of UX Playground's content and design community.
+
+
 
 ![UX Playground's new homepage](/static/img/uxpg-website/uxplayground-home.webp) <figcaption>UX Playground's new homepage.</figcaption>
 

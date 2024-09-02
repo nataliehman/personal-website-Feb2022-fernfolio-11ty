@@ -55,8 +55,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.8em; 
-  border-left: solid 6px var(--color-secondary);
+  border-left: solid 8px var(--color-secondary);
   padding-left: 20px;
+  margin: 2.5rem 0;
 }
 
 h2 {

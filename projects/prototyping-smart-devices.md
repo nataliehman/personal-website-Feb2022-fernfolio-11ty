@@ -117,6 +117,10 @@ https://vimeo.com/320973092
 
 https://www.youtube.com/watch?v=NF3dL5OCfcE
 
+<br/> 
+
+# Outcome
+
 ## Sharing with the community
 
 Our work was showcased at:

@@ -3,10 +3,12 @@ layout: layouts/base.njk
 section: projects
 ---
 <div class="page-container">
-  <h1>{{title}}</h1>
-  {% if subtitle %}
-    <p>{{ subtitle }}</p>
-  {% endif %}
+  <div class="title-block">
+    <h1>{{title}}</h1>
+    {% if subtitle %}
+      <p>{{ subtitle }}</p>
+    {% endif %}
+  </div>
   
   {{ layoutContent | safe }}
 

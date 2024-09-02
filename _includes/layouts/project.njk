@@ -3,13 +3,15 @@ layout: layouts/base.njk
 section: project
 ---
 <div class="page-container">
-  <h1>
-    {% if emoji %}
-      <span class="project-card__emoji">{{ emoji }}</span>
-    {% endif %}
-    {{title}}</h1>
-  {{ layoutContent | safe }}
-
+  <div class="title-block">
+    <h1>
+      {% if emoji %}
+        <span class="project-card__emoji">{{ emoji }}</span>
+      {% endif %}
+      {{title}}</h1>
+    </div>
+    {{ layoutContent | safe }}
+  
   <!--
   <nav>
     <a href="{{ '/projects/' | url }}">← View All Projects</a>

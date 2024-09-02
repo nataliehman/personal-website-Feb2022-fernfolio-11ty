@@ -33,11 +33,12 @@ section: home
   {% set projectlist = collections['project work'] %}
   {% include "components/projectlist.njk" %}
 
-  <hr>
-  <h2>Work samples</h2>
-  <p>A selection of other design work to provide further insights into my creativity and problem-solving skills.</p>
-  {% set projectlist = collections['work sample'] %}
-  {% include "components/projectlist.njk" %}
+  <div class="work-sample-block">
+    <h2>Work samples</h2>
+    <p>A selection of other design work to provide further insights into my creativity and problem-solving skills.</p>
+    {% set projectlist = collections['work sample'] %}
+    {% include "components/projectlist.njk" %}
+  </div>
 
   <!--
     <hr>

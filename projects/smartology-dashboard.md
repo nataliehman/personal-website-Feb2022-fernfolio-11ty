@@ -103,6 +103,8 @@ Some areas of the process had insufficient research data, so we leveraged existi
 
 ![](/static/img/dashboard/dashboard-prototype-testing.webp) <figcaption>We did user testing for the campaign dashboard prototype using Invision and Silverback. User feedback highlighted the need for users to adapt their process to the new design. New terminology would require explanation on their purpose, such as through tooltips. The use of graphs was also confusing for users without clear labeling and explanation.</figcaption>
 
+# Outcome
+
 ## Admin 2.0: an iterative process to dashboard refinement
 
 The initial dashboard release supported the early adoption of programmatic advertising, allowing our company to offer this emerging technology as a new service. Key features such as data exporting and creative gallery preview improved account managers' workflow. Clear labeling and presentation of key data also enhanced transparency for campaign management. The automated workflow provided by programmatic advertising helped scale our business efficiently, increasing both client numbers and campaign capacity.

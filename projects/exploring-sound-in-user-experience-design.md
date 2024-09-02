@@ -91,6 +91,8 @@ Once we had the final content structure, we created a separate Google Docs file 
 
 ![Content in Keynote presentation](/static/img/sound/keynote-slide.webp) <figcaption>Keynote presentation using the content and assets.</figcaption>
 
+# Outcome
+
 ## Presenting to the public
 
 The research was presented at:

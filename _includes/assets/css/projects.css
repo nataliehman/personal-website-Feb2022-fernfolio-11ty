@@ -67,3 +67,7 @@
   font-family: "Public Sans Bold", var(--font-family-base);
   margin: 0;
 }
+
+.title-block {
+  margin-top:35px;
+}
