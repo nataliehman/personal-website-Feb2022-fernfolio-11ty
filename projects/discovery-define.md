@@ -27,7 +27,9 @@ This page covers my work on research, analysis and planning. There are also samp
 For the development of UX Playground's online UX design course, one of the requirements was to reuse relevant existing content for the curriculum. During the planning phase, a content strategy plan was created to identify if we needed to create new content. By considering the business goals and user needs, the plan provided a useful reference to understand the tasks required to complete development and launch of the online course.
 
 
-![Content strategy for develop a design course](/static/img/work-samples/course-content-strategy.webp) <figcaption>The content strategy plan in Miro, highlighting what course content is required for launching the online UX design course.</figcaption>
+![Content strategy for developing a design course](/static/img/work-samples/course-content-strategy.webp) <figcaption>The content strategy plan in Miro, highlighting what course content is required for launching the online UX design course.</figcaption>
+
+![Content structure for developing a design course](/static/img/work-samples/course-content-structure.webp) <figcaption>The course content structure in Miro, highlighting how the content may be used for teaching UX Design with reference to the content strategy plan.</figcaption>
 
 # Data analysis: reporting on community event performances
 
